@@ -1,0 +1,196 @@
+---
+title: "Gustavo Diaz CV"
+author:
+  firstname: Gustavo
+  lastname: Diaz
+  address: "Scott Hall 103, 601 University Place, Evanston, Illinois"
+  position: "Department of Political Science ・ Northwestern University"
+  contacts:
+    - icon: fa envelope
+      text: gustavo.diaz@northwestern.edu
+      url: "mailto:gustavo.diaz@northwestern.edu"
+    - icon: fa brands github
+      text: gustavo-diaz
+      url: https://github.com/gustavo-diaz
+    - icon: fa brands x-twitter
+      text: gusvalo
+      url: https://twitter.com/gusvalo
+    - icon: assets/icon/bi-house-fill.svg
+      text: gustavodiaz.org
+      url: https://gustavodiaz.org/
+format: awesomecv-typst
+style:
+   color-accent: "000000"
+---
+
+```{=typst}
+#set text(
+  size: 10pt
+)
+
+#show link: set text(blue)
+```
+
+
+# Positions
+
+```{=typst}
+#resume-entry(
+  title: "Northwestern University",
+  description: "Assistant Professor of Instruction, Department of Political Science",
+  date: "2024 -"
+)
+
+#resume-entry(
+  title: "McMaster University",
+  description: "Postdoctoral Fellow, Department of Political Science",
+  date: "2022 - 2024"
+)
+
+#resume-entry(
+  title: "Tulane University",
+  description: "Postdoctoral Fellow, Center for Inter-American Policy and Research",
+  date: "2021 - 2022"
+)
+```
+
+# Education
+
+```{=typst}
+#resume-entry(
+  title: "University of Illinois Urbana-Champaign",
+  description: "PhD in Political Science
+MA in Political Science",
+  date: "2021
+2017",
+)
+
+#resume-entry(
+  title: "Pontificia Universidad Católica de Chile",
+  description: "BA in Political Science",
+  date: "2014"
+)
+```
+
+# Under Review  
+
+["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+*Conditionally accepted at The British Journal of Political Science*
+
+["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
+*Revise and resubmit at The American Political Science Review (resubmitted on July 2024)*
+
+# Publications  
+
+2024\. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing (with Kelly Senters Piazza)
+
+2023\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science*
+
+2022\. ["Women Held Back: The Depressing Effect of Institutional and Norms-Based Barriers on Female Representation in Corrupt Contexts."](https://gustavodiaz.org/files/research/gender_corruption.pdf) In [*Norms, Gender and Corruption: Understanding the Nexus*](https://www.e-elgar.com/shop/gbp/norms-gender-and-corruption-9781802205824.html), edited by Ina Kubbe and Ortrun Merkle. Edward Elgar Publishing
+(with Kelly Senters Piazza)
+
+2020\. ["Light in the Midst of Chaos: COVID-19 and Female Political Representation."](https://doi.org/10.1016/j.worlddev.2020.105125) *World Development* 136: 105125 (with Kelly Senters Piazza)
+
+2020\. ["Survey Experiments and the Quest for Valid Interpretation."](https://gustavodiaz.org/files/research/sage_survey_experiments_chapter.pdf) In [*The SAGE Handbook of Research Methods in Political Science and International Relations*](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-research-methods-in-political-science-and-international-relations/book262875), edited by Luigi Curini and Robert Franzese. London: Sage (with Christopher Grady and James H. Kuklinski)
+
+2014\. ["Civic Education and Voter Turnout Under Voluntary Voting."](https://revistapolitica.uchile.cl/index.php/RP/article/view/33099/34813) *Política* 52(1): 61-91 (In Spanish)
+
+# Working Papers
+
+["Two-Sided Two-Sided Sensitivity Bias in Surveys"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)
+
+["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+
+# Teaching  
+
+**Northwestern University** 
+
+Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
+
+Introduction to Empirical Methods in Political Science (Undergraduate) `#h(1fr)`{=typst} Spring 2025, Winter 2025
+
+Probability and Statistics (Graduate) `#h(1fr)`{=typst} Fall 2024
+
+Social Science Math Camp `#h(1fr)`{=typst} Summer 2024
+
+**McMaster University**  
+
+[Research Design for Public Opinion and Public Policy](https://popw24.gustavodiaz.org/) `#h(1fr)`{=typst} Spring 2024, 2023
+
+**Tulane University**  
+
+[Politics of Developing Democracies](https://gustavodiaz.org/files/teaching/ddem_syllabus.pdf) `#h(1fr)`{=typst} Spring 2022
+
+[Comparative Politics](https://gustavodiaz.org/teaching/cp_intro/syllabus/polc2300_syllabus.pdf)  `#h(1fr)`{=typst} Fall 2021
+
+# Awards
+
+2019-2020\. Werner Baer Dissertation Writing Fellowship. Lemann Center for Brazilian Studies,
+University of Illinois
+
+2019\. Best Poster Award. Latin American Political Methodology Meeting. Montevideo, Uruguay
+
+2016\. Rita and Leonard Ogren Award for Academic Excellence. Department of Political Science,
+University of Illinois
+
+# Invited Talks
+
+2022.\ McMaster University, Spark Centre for Social Research Innovation
+
+2021.\ American University, Methods Reading Group
+
+2021.\ Washington University in St. Louis, Graduate Student Exchange
+
+2020.\ University of Notre Dame, Graduate Student Exchange
+
+# Recent Conference Presentations
+
+2024.\ ["Combining List Experiments and the Network Scale-Up Method."](https://talks.gustavodiaz.org/ispp24) Annual Meeting of the International Society of Political Psychology
+
+2024.\ ["The Merits of Externally Invalid Survey Experiments."](https://talks.gustavodiaz.org/maple24) MapleMeth
+
+2024.\ ["How the Presence of Others Can Bias Survey Responses."](https://talks.gustavodiaz.org/privacy_mpsa24) Midwest Political Science Association Conference
+
+2024.\ ["Criminal Governance in Unexpected Contexts."](https://talks.gustavodiaz.org/crim_gov_mpsa24) Midwest Political Science Association Conference
+
+<!-- # Conference Presentations -->
+
+<!-- International Society of Political Psychology: 2024 -->
+
+<!-- MapleMeth: 2024, 2023 -->
+
+<!-- Midwest Political Science Association: 2024, 2022, 2021, 2018, 2017 -->
+
+<!-- American Political Science Association: 2023, 2022, 2021, 2019 -->
+
+<!-- Annual Meeting of the Society for Political Methodology: 2023, 2022, 2021 -->
+
+<!-- Journal of Public Policy Political Economy of Development Virtual Workshop: 2022 -->
+
+<!-- Southern Political Science Association: 2022 -->
+
+<!-- Latin American Political Methodology Meeting: 2022, 2021, 2020, 2019 -->
+
+<!-- King's College London, Quantitative Political Economy Research Group: 2021 -->
+
+<!-- Midwest Workshop in Empirical Political Science: 2021 -->
+
+<!-- NYU-CESS Annual Experimental Political Science Conference: 2021, 2020 -->
+
+<!-- University of Minnesota Political Methodology Colloquium: 2019 -->
+
+<!-- Empirical Implications of Theoretical Models: 2019 -->
+
+<!-- St. Louis Area Methods Meeting: 2019 -->
+
+# Additional Training  
+
+2023\. Grant writing workshop for junior faculty. McMaster University
+
+2019\. Empirical Implications of Theoretical Models Summer Institute. Emory University
+
+2014\. Summer School on Mixed Methods. Pontificia Universidad Católica de Chile
+
+# Skills  
+
+**Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto

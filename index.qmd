@@ -1,0 +1,100 @@
+---
+title: "Job Market Hub"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(lubridate)
+library(googlesheets4)
+library(kableExtra)
+library(fontawesome)
+
+## package global options
+# skip googlesheets login
+gs4_deauth()
+
+## Set date threshold to display jobs
+t = "2024-10-15"
+```
+
+## Upcoming Deadlines
+
+```{r, message = FALSE}
+jobs = read_sheet("https://docs.google.com/spreadsheets/d/1gEXP5EvvPtKmxY0srki6cNaa3JxMslzdHmfzrLB-PGM/edit?gid=0#gid=0",
+                  sheet = 1)
+
+# some manipulation to show only what is useful
+jobs = jobs %>% 
+# don't show if already applied
+  filter(is.na(applied)) %>% 
+# filter deadlines within treshold
+filter(as_date(deadline) <= as_date(t)) %>% 
+  mutate(
+  # url = paste0('<a href="', url,'"target="_blank"></a>'),
+  deadline = format(deadline, "%B %e, %Y")
+)
+```
+
+**Last update:** `r format(Sys.Date(), "%B %e, %Y")`. Full list [here](https://docs.google.com/spreadsheets/d/1gEXP5EvvPtKmxY0srki6cNaa3JxMslzdHmfzrLB-PGM/edit?gid=0#gid=0).
+
+**Number of letters to write:**
+
+```{r}
+jobs %>% 
+  summarize(across(Gisela:Michelle, ~ sum(.x, na.rm = TRUE))) %>% 
+  select_if(~sum(.) > 0) %>% 
+  kbl() %>% 
+  kable_paper(full_width = FALSE, position = "left")
+```
+
+&nbsp;
+
+```{r, results = "asis"}
+refs = jobs %>% select(Gisela:Michelle)
+
+# try a loop now
+for(i in 1:nrow(jobs)){
+  cat("[**",
+      jobs$position[i], " - ",
+      jobs$department[i], " - ",
+      jobs$place[i],
+      paste0('**](', jobs$url[i],')'),
+      "<br/>",
+      sep = "")
+  
+  cat("**Letters:**",
+      paste(colnames(refs)[which(refs[i,] == 1)], collapse = ", "),
+      "<br/>",
+      "**Deadline:**", jobs$deadline[i],
+      "<br/>",
+      "**Delivery:**", jobs$letters[i],
+      "<br/>",
+      "**Notes:**", jobs$notes[i],
+      "<br/>")
+  
+  cat(rep("&nbsp;  ", 2), sep="\n")
+}
+```
+
+
+## Materials
+
+- CV
+- Cover letter
+- Research statement
+- Teaching statement
+- Diversity statement
+
+
+## Papers
+
+In rough order of importance
+
+## Teaching portfolio
+
+TBD
+
+## Highlights
+
