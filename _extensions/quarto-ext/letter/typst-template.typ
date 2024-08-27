@@ -55,6 +55,6 @@
 
   // Add body and name.
   body
-  v(1.25cm)
+  v(0.5cm)
   name
 }

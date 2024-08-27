@@ -1,5 +1,6 @@
 ---
 title: "Job Market Hub"
+page-layout: full
 ---
 
 ```{r setup, include=FALSE}
@@ -81,8 +82,8 @@ for(i in 1:nrow(jobs)){
 
 ## Materials
 
-- CV
-- Cover letter
+- [CV](/diaz_cv.pdf)
+- [Cover letter](/cover.pdf)
 - Research statement
 - Teaching statement
 - Diversity statement
@@ -90,11 +91,11 @@ for(i in 1:nrow(jobs)){
 
 ## Papers
 
-In rough order of importance
+TBD. See [research](https://gustavodiaz.org/research.html) and [talks](https://gustavodiaz.org/talk.html) pages for now.
 
 ## Teaching portfolio
 
-TBD
+TBD. See [teaching](https://gustavodiaz.org/teaching.html) page for now.
 
-## Highlights
+<!-- ## Highlights -->
 
