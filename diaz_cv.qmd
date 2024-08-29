@@ -97,7 +97,7 @@ MA in Political Science",
 
 # Working Papers
 
-["Two-Sided Two-Sided Sensitivity Bias in Surveys"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)
+["Two-Sided Sensitivity Bias in Surveys"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)
 
 ["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 

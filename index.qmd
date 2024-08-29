@@ -84,9 +84,9 @@ for(i in 1:nrow(jobs)){
 
 - [CV](/diaz_cv.pdf)
 - [Cover letter](/cover.pdf)
-- Research statement
-- Teaching statement
-- Diversity statement
+- [Research statement](/research.pdf)
+- [Teaching statement](/teaching.pdf)
+- [Diversity statement](/diversity.pdf)
 
 
 ## Papers

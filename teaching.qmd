@@ -58,4 +58,4 @@ Teaching to these diverse audiences made me aware of the importance of promoting
 
 ### Teaching interests
 
-I am prepared to teach courses on `r methods_offer`. You can find copies of current and sample syllabi in my `r source`.
+I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`.

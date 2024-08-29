@@ -6,17 +6,18 @@ urlcolor: blue
 ## Teaching Evaluations
 
 Gustavo Diaz  
-*Department of Political Science, McMaster University*  
-<diazg2@mcmaster.ca>  
+*Department of Political Science*  
+*Northwestern University*  
+<gustavo.diaz@northwestern.edu>  
 \hrule
 
 &nbsp;
 
-The following tables present a summary of my teaching evaluations. Scores range from 1 to 5, with 5 being the most positive. Detailed evaluations available upon request.
+The following tables present a summary of my teaching evaluations. Unless otherwise noted, scores range from 1 to 5, with 5 being the most positive. Detailed evaluations available upon request.
 
 # McMaster University
 
-In Spring 2023, only 1 student completed the evaluations for my data analysis for public opinion and policy course. This may have happened due to a change in the online platform for teaching evaluation surveys in the previous semester.
+In Spring 2024, only 2 students completed the evaluations for my data analysis for public opinion and policy course, while in Spring 2023 only 1 student did. While the average course rating among these responses is 9 on a scale from 1 (very poor) to 10 (excellent), they stem from response rates of 18% and 5%, respectively, which is too low to provide a reliable summary of student evaluations.
 
 # Tulane University
 
