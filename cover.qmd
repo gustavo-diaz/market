@@ -5,14 +5,14 @@ name: |
   Department of Political Science \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Open Rank Search, Political Methodology"
+subject: "Assistant Professor Search, Data Analytics"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "Open Rank Search in Political Methodology"
-place = "Cornell"
+jobtitle = "call for an Assistant Professor in Data Analytics"
+place = "Tulane"
 discipline = "social science"
 courses = "statistics, research design, experiments, causal inference, machine learning, and computational social science"
 source = "website"
