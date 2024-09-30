@@ -20,6 +20,10 @@ quarto::quarto_render("evals.qmd",
                       output_file = "diaz_teaching_evals.pdf")
 
 
+# publications
+quarto::quarto_render("publications.qmd",
+                      output_file = "diaz_publications.pdf")
+
 
 
 
