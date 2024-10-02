@@ -73,9 +73,11 @@ MA in Political Science",
 
 # Publications  
 
-2024\. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing (with Kelly Senters Piazza)
+2024\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
-2023\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science*
+2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
+
+2024\. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing (with Kelly Senters Piazza)
 
 2022\. ["Women Held Back: The Depressing Effect of Institutional and Norms-Based Barriers on Female Representation in Corrupt Contexts."](https://gustavodiaz.org/files/research/gender_corruption.pdf) In [*Norms, Gender and Corruption: Understanding the Nexus*](https://www.e-elgar.com/shop/gbp/norms-gender-and-corruption-9781802205824.html), edited by Ina Kubbe and Ortrun Merkle. Edward Elgar Publishing
 (with Kelly Senters Piazza)
@@ -88,11 +90,8 @@ MA in Political Science",
 
 # Working Papers
 
-["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
-*Conditionally accepted*
-
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Revise and resubmit*
+*Under review*
 
 
 ["Two-Sided Sensitivity Bias in Surveys"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)

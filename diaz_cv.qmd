@@ -72,17 +72,13 @@ MA in Political Science",
 )
 ```
 
-# Under Review  
-
-["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
-*Conditionally accepted at The British Journal of Political Science*
-
-["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Under review at The American Journal of Political Science (submitted on August 2024)*
-
 # Publications  
 
+2024\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+
+
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
+
 
 2024\. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing (with Kelly Senters Piazza)
 
@@ -94,6 +90,11 @@ MA in Political Science",
 2020\. ["Survey Experiments and the Quest for Valid Interpretation."](https://gustavodiaz.org/files/research/sage_survey_experiments_chapter.pdf) In [*The SAGE Handbook of Research Methods in Political Science and International Relations*](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-research-methods-in-political-science-and-international-relations/book262875), edited by Luigi Curini and Robert Franzese. London: Sage (with Christopher Grady and James H. Kuklinski)
 
 2014\. ["Civic Education and Voter Turnout Under Voluntary Voting."](https://revistapolitica.uchile.cl/index.php/RP/article/view/33099/34813) *Política* 52(1): 61-91 (In Spanish)
+
+# Under Review  
+
+["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
+*Under review at The American Journal of Political Science (submitted on August 2024)*
 
 # Working Papers
 
