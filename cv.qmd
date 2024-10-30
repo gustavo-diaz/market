@@ -90,11 +90,10 @@ MA in Political Science",
 
 # Working Papers
 
-["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Under review*
+["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Under review*
 
 
-["Two-Sided Sensitivity Bias in Surveys"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)
+[""Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Under review*
 
 ["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
@@ -104,11 +103,11 @@ MA in Political Science",
 
 Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
-Introduction to Empirical Methods in Political Science (Undergraduate) `#h(1fr)`{=typst} Spring 2025, Winter 2025
+[Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2024
 
-Probability and Statistics (Graduate) `#h(1fr)`{=typst} Fall 2024
+[Social Science Math Camp](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2024
 
-Social Science Math Camp `#h(1fr)`{=typst} Summer 2024
+[R Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 2024-25
 
 **McMaster University**  
 

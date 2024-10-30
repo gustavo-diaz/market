@@ -96,9 +96,10 @@ MA in Political Science",
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
 *Under review at The American Journal of Political Science (submitted on August 2024)*
 
-# Working Papers
+["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
+*Under review at the Journal of Experimental Political Science (submitted on October 2024)*
 
-["Two-Sided Sensitivity Bias in Surveys"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)
+# Working Papers
 
 ["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
@@ -110,9 +111,11 @@ Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
 Introduction to Empirical Methods in Political Science (Undergraduate) `#h(1fr)`{=typst} Spring 2025, Winter 2025
 
-Probability and Statistics (Graduate) `#h(1fr)`{=typst} Fall 2024
+[Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2024
 
-Social Science Math Camp `#h(1fr)`{=typst} Summer 2024
+[Social Science Math Camp](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2024
+
+[R Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 2024-25
 
 **McMaster University**  
 
@@ -184,14 +187,13 @@ University of Illinois
 
 <!-- St. Louis Area Methods Meeting: 2019 -->
 
-# Additional Training  
+# Additional Training and Skills 
+<!-- Bunching together to keep in a 2 page document -->
 
 2023\. Grant writing workshop for junior faculty. McMaster University
 
 2019\. Empirical Implications of Theoretical Models Summer Institute. Emory University
 
 2014\. Summer School on Mixed Methods. Pontificia Universidad Católica de Chile
-
-# Skills  
 
 **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto

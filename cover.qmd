@@ -1,20 +1,19 @@
 ---
 name: |
   Gustavo Diaz \
-  Department of Political Science \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Search, Political Methodology"
+subject: "Assistant Professor Search, Public Policy and Quantitative Methodology"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor in Political Methodology"
-place = "Wisconsin"
+jobtitle = "call for an Assistant Professor in Public Policy and Quantitative Methodology"
+place = "Marquette"
 discipline = "social science"
-subfield = "comparative politics and political behavior"
-courses = "statistics, research design, experiments, causal inference, machine learning, and computational social science"
+subfield = "policy evaluation and political behavior"
+courses = "statistics, research design, experiments, policy evaluation, data science, and computational social science"
 source = "website"
 ```
 
@@ -40,21 +39,22 @@ Focusing on the design and analysis of surveys and experiments, this agenda seek
 
 For example, in "Balancing Precision and Retention in Experimental Design", we discuss how implementing alternatives to the standard experimental design, such as block randomization, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, we show how precision gains from alternative designs can withstand significant degrees of sample loss.
 
-As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce parametric and nonparametric statistical tests to diagnose this effect, which in turn facilitate the implementation of a more statistically efficient technique.
+<!-- Throwaway sentence in the end to mention California, delete if not relevant -->
+As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more statistically efficient technique. I illustrate the usefulness of these tests by revisiting a study on support for anti-immigration organizations in California.
 
 <!-- Flag more clearly these are future directions? -->
 One of the core lessons from my research program on statistical precision is that combining different techniques helps overcome their respective limitations. For example, in work in progress, we combine list experiments with questions from the network scale up method (NSUM), a popular technique in the health sciences, to improve the estimation of sensitive attitudes and behaviors. On the one hand, list experiments suffer from low statistical precision. On the other hand, generalizing to a population of interest through NSUM requires assumptions that are untenable in social science applications. By using NSUM questions as auxiliary information to the list experiment, we improve precision without introducing cumbersome assumptions.
 
 <!-- Update, hopefully they submit the paper soon -->
-My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation.
+My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation. 
 
-As another example, in a manuscript **conditionally accepted** at the *British Journal of Political Science*, we use a survey experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, thus providing no new information on top of performance. In turn, mentioning the gender of a woman politician leads voters to believe that good performance stems from factors beyond the incumbent's control. This has broader implications for research on gender gaps in the evaluation of public officials, since most survey-experimental analysis on the topic fail to account for this informational imbalance.
+As another example, in a manuscript forthcoming at the *British Journal of Political Science*, we use a survey experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making quantitative methods accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching quantitative methods in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference. I also lead the math camp for incoming political science and sociology students and run the year-long R workshop that introduces cutting-edge statistical programming practices. Later this year, I will teach the undergrad-level introduction to empirical research in political science, and a seminar on causal inference and machine learning methods for evidence-informed decision-making. 
+My teaching focuses on making quantitative methods accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching quantitative methods in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference. I also lead the math camp for incoming political science and sociology students and run the year-long R workshop that introduces cutting-edge statistical programming practices. Later this year, I will teach the undergrad-level introduction to empirical research in political science, and a seminar on quantitative methods for evidence-informed public policy. 
 
-Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges in developing democracies at Tulane. Both courses emphasized experimental and quasi-experimental designs to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development and application of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
+Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges at Tulane. Both courses emphasized experimental and quasi-experimental designs to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
