@@ -24,9 +24,9 @@ Gustavo Diaz
 
 
 ```{r setup, include=F}
-discipline = "Political scientists"
+discipline = "Social scientists"
 fields = "causal inference and computational social science"
-applications = "to questions in political behavior and policy evaluation, especially around the challenges to accountability, governance, and representation"
+applications = "to questions in political science, especially around the challenges to accountability, governance, and representation"
 region = "Global South"
 ```
 
