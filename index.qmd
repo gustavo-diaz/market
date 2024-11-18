@@ -17,7 +17,7 @@ library(fontawesome)
 gs4_deauth()
 
 ## Set date threshold to display jobs
-t = "2024-11-30"
+t = "2024-12-30"
 ```
 
 ## Upcoming Deadlines
