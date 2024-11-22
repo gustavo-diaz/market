@@ -28,7 +28,7 @@ Gustavo Diaz
 
 ```{r, include = FALSE}
 field = "statistics and social science methodology"
-person = "methodologist"
+person = "applied statistician"
 ```
 
 

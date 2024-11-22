@@ -26,14 +26,14 @@ Gustavo Diaz
 <!-- ### Teaching philosophy -->
 
 ```{r setup, include=F}
-field = "introductory courses in quantitative methods"
-students = "political scientists"
-methods_offer = "statistics, research design, experiments, causal inference, machine learning, and computational social science"
+field = "applied statistics"
+students = "social scientists"
+methods_offer = "probability and statistical inference, statistical computing, linear models, design-based causal inference, machine learning, and computational social science"
 source = "website"
 ```
 
 <!-- Hide for shorter version -->
-As an instructor of `r field` for `r students`, I face a polarized audience. Increasingly, students start their program with considerable experience in mathematical thinking, statistics, and statistical programming. Still, many start with an appreciation for quantitative research, but come from educational and career paths designed to explicitly avoid math.
+As an instructor of `r field` for `r students`, I face a polarized audience. Increasingly, students start their program with considerable experience in mathematical thinking, statistics, and statistical programming. Still, many start with an appreciation for data analysis, but come from educational and career paths designed to explicitly avoid math.
 
 My approach to keep both audiences engaged within one term is to unify math, statistics, and coding as the task of acquiring a new language. A single course will not teach students everything they need to know to become fluent, but it can give enough tools to facilitate future learning in a direction that is beneficial to students regardless of their background and career goals. For some, this may mean engaging directly with data and code or even creating new methodologies. For others, the goal may be just to communicate productively with scholarship drawing on quantitative findings or data analysts at the workplace.
 
@@ -50,9 +50,9 @@ Flexibility and accountability also help in preventing instances of discriminati
 
 ### Teaching experience
 
-At Northwestern, I am the central person teaching quantitative methods in the department. I teach the first course in the graduate methods sequence, focusing on probability and statistical inference. I also lead the math camp for incoming political science and sociology students, and run the year-long R workshop that introduces cutting-edge statistical programming practices. Later this year, I will teach the undergrad level introduction to research methods in political science, and a seminar on causal inference and machine learning methods for evidence-based policy-making.
+At Northwestern, I am the central person statistics courses in the department. I teach the first course in the graduate methods sequence, focusing on probability and statistical inference. I also lead the math camp for incoming political science and sociology students, and run the year-long R workshop that introduces cutting-edge statistical computing practices. Later this year, I will teach the undergrad level introduction to research methods in political science, a course that teaches political science majors to become informed consumers of applied statistics. I will also teach a seminar on design-based causal inference and machine learning methods for evidence-based policy-making.
 
-Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on experimental and quasi-experimental designs for causal inference. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry.
+Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on experimental the use of applied statistics to make credible policy recommendations. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry.
 
 At Tulane, I taught an undergrad senior course on the challenges that developing democracies face from the perspective of evidence-based policy making. This course overviews the main challenges in the path to democratic consolidation around the world, proposed solutions to these challenges, and how governments, researchers, and civil society organizations use data to evaluate these solutions. The previous version focused primarily design-based causal inference, but future versions will also feature data science and machine learning.
 
