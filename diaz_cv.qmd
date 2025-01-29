@@ -74,7 +74,7 @@ MA in Political Science",
 
 # Publications  
 
-2024\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
 
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
@@ -94,7 +94,7 @@ MA in Political Science",
 # Under Review  
 
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Under review at The American Journal of Political Science (submitted on August 2024)*
+*Under review at Political Analysis (submitted on December 2024)*
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Under review at the Journal of Experimental Political Science (submitted on October 2024)*
@@ -109,7 +109,7 @@ MA in Political Science",
 
 Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
-Introduction to Empirical Methods in Political Science (Undergraduate) `#h(1fr)`{=typst} Spring 2025, Winter 2025
+[Introduction to Empirical Methods in Political Science (Undergraduate)](https://gustavodiaz.org/files/teaching/empirical_methods.pdf) `#h(1fr)`{=typst} Spring 2025, Winter 2025
 
 [Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2024
 

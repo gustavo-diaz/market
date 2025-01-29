@@ -27,8 +27,8 @@ Gustavo Diaz
 
 
 ```{r, include = FALSE}
-field = "statistics and social science methodology"
-person = "applied statistician"
+field = "applied statistics and social science research"
+person = "statistician"
 ```
 
 
@@ -38,8 +38,12 @@ My personal experience puts me in a privileged position to foster diversity and 
 
 My initial efforts focused on facilitating out-of-classroom learning opportunities, which I consider essential to break initial entry barriers. At Illinois, I started a methods cheatsheets project in 2018. In this project, volunteer graduate students write short introductions to the theory, implementation, and current debates surrounding a technique of their expertise. These resources are shared in a repository available for current and future generations.
 
-At Northwestern, I facilitate collaborative lab-style spaces for open-ended group work. As part of both my introductory graduate methods course and the R workshop I organize, participants can bring their own methods-related work to the lab session and benefit from group learning in a low-stakes setting.
+At Northwestern, I facilitate collaborative lab-style spaces for open-ended group work. As part of both my introductory graduate methods course and the coding workshop I organize, participants can bring their own methods-related work to the lab session and benefit from group learning in a low-stakes setting.
 
 I also incorporate these principles into my teaching. My course on data analysis for public opinion and policy at McMaster gave students enough flexibility to connect statistical theory to their own interests and career goals. For example, in response papers they could choose what parts of a research design they would change if they were in charge of replicating a study on a topic of their choosing.
 
-In the future, I aim to form a research group that translates these ideas into a sustainable and inclusive research program. This group would foster dialogue across backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle.
+<!-- More for research -->
+<!-- In the future, I aim to form a research group that translates these ideas into a sustainable and inclusive research program. This group would foster dialogue across backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle. -->
+
+<!-- More for teaching -->
+In the future, I aim to create or participate in a lab that translates these ideas into a sustainable and inclusive activities led by its student-members, including research and consulting work. This group would foster dialogue across backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle.

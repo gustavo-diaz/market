@@ -5,6 +5,7 @@
 quarto::quarto_render("cv.qmd") # For website
 quarto::quarto_render("diaz_cv.qmd") # For job apps
 
+
 # methods
 quarto::quarto_render("cover.qmd", 
                       output_file = "diaz_cover_letter.pdf")
@@ -14,6 +15,10 @@ quarto::quarto_render("teaching.qmd",
                       output_file = "diaz_teaching_statement.pdf")
 quarto::quarto_render("diversity.qmd",
                       output_file = "diaz_diversity_statement.pdf")
+
+# teaching cover letter
+quarto::quarto_render("cover_teaching.qmd", 
+                      output_file = "diaz_cover_letter.pdf")
 
 # evals
 quarto::quarto_render("evals.qmd",

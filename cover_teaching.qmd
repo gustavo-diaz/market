@@ -15,7 +15,7 @@ research = "applied statistics for the social sciences"
 place = "NYU"
 discipline = "social science"
 subfield = "the social sciences"
-courses = "probability and statistical inference, statistical computing, linear models, design-based causal inference, machine learning, and computational social science"
+courses = "probability and statistical inference, statistical computing, causal inference, machine learning, and computational social science"
 source = "website"
 ```
 
@@ -30,7 +30,21 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. I received my PhD from the University of Illinois Urbana-Champaign in 2021. My work is published or forthcoming in leading outlets in the social and political sciences, including the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science. I received my PhD from the University of Illinois Urbana-Champaign in 2021.
+
+<!-- TEACHING -->
+<!-- Remember to tweak based on whether the job is cp friendly -->
+My teaching focuses on making statistics accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference, and an undergrad-level introductory course that helps political science majors become informed consumers of applied statistics. I also lead the math camp for incoming political science and sociology students and run the year-long statistical computing workshop that introduces cutting-edge coding practices. Later this year, I will teach a seminar on the use of design-based causal inference and machine learning methods to inform decision-making in academia, government, and industry. Next year, my goal is to teach an advanced graduate practicum on machine learning methods for statistical inference.
+
+Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges in developing democracies at Tulane. Both courses emphasized the use of applied statistics to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
+
+<!-- Take this out to fit pages -->
+<!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
+
+<!-- Teaching plans -->
+<!-- Remember to switch from teaching portfolio/website accordingly -->
+<!-- Also tweak depending on job -->
+I am prepared to teach courses on `r courses`. You can find copies of current and future syllabi in my `r source`.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
@@ -51,21 +65,6 @@ One of the core lessons from my research program on statistical precision is tha
 My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation. 
 
 As another example, in a manuscript forthcoming at the *British Journal of Political Science*, we use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
-
-<!-- TEACHING -->
-<!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making statistics accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference. I also lead the math camp for incoming political science and sociology students and run the year-long R workshop that introduces cutting-edge statistical programming practices. Later this year, I will teach an undergrad-level introductory course that helps political science majors become informed consumers of applied statistics, and a seminar on design-based causal inference and machine learning methods for evidence-informed decision making in academia, government, and industry. 
-
-Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges in developing democracies at Tulane. Both courses emphasized the use of applied statistics to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
-
-<!-- Take this out to fit pages -->
-<!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
-
-<!-- Teaching plans -->
-<!-- Remember to switch from teaching portfolio/website accordingly -->
-<!-- Also tweak depending on job -->
-I am prepared to teach courses on `r courses`. You can find copies of current and future syllabi in my `r source`.
-
 
 
 <!-- CLOSING -->
