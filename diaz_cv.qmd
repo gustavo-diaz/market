@@ -148,14 +148,13 @@ University of Illinois
 2020.\ University of Notre Dame, Graduate Student Exchange
 
 # Recent Conference Presentations
+2025.\ ["Balancing Precision and Retention in Experimental Design."](https://talks.gustavodiaz.org/texmeth25) Texas Methods Meeting
 
 2024.\ ["Combining List Experiments and the Network Scale-Up Method."](https://talks.gustavodiaz.org/ispp24) Annual Meeting of the International Society of Political Psychology
 
 2024.\ ["The Merits of Externally Invalid Survey Experiments."](https://talks.gustavodiaz.org/maple24) MapleMeth
 
 2024.\ ["How the Presence of Others Can Bias Survey Responses."](https://talks.gustavodiaz.org/privacy_mpsa24) Midwest Political Science Association Conference
-
-2024.\ ["Criminal Governance in Unexpected Contexts."](https://talks.gustavodiaz.org/crim_gov_mpsa24) Midwest Political Science Association Conference
 
 <!-- # Conference Presentations -->
 

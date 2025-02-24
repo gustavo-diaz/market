@@ -4,15 +4,15 @@ name: |
   Department of Political Science \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Clinical Assistant Professor search"
+subject: "Assistant Professor Search, Data Science"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for a Clinical Assistant Professor in Applied Statistics for Social Science Research"
+jobtitle = "call for an Assistant Professor in Data Science"
 research = "applied statistics for the social sciences"
-place = "NYU"
+place = "the University of Guelph"
 discipline = "social science"
 subfield = "the social sciences"
 courses = "probability and statistical inference, statistical computing, linear models, design-based causal inference, machine learning, and computational social science"
@@ -30,7 +30,7 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. I received my PhD from the University of Illinois Urbana-Champaign in 2021. My work is published or forthcoming in leading outlets in the social and political sciences, including the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. Previously, I was a postdoctoral fellow in computational and quantitative methodologies at McMaster University. My work is published or forthcoming in leading outlets in the social and political sciences, including the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
