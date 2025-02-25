@@ -1,7 +1,6 @@
 ---
 name: |
   Gustavo Diaz \
-  Department of Political Science \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
 subject: "Assistant Professor Search, Public Policy"
