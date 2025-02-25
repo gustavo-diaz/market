@@ -26,7 +26,7 @@ Gustavo Diaz
 ```{r setup, include=F}
 discipline = "Social scientists"
 fields = "design-based causal inference and computational social science"
-applications = "to questions in political science, especially around the challenges to accountability, governance, and representation"
+applications = "to questions of evidence-informed policy-making, especially around the challenges to accountability, governance, and representation"
 region = "Global South"
 ```
 
@@ -35,7 +35,7 @@ region = "Global South"
 
 My research develops standards to navigate the tradeoffs that emerge when one considers research design options before data collection. I use tools from `r fields` to identify practices and procedures that researchers can adopt to improve how they approach data collection at the pre-analysis stage. My current agenda focuses on improving statistical precision, since this is often the deciding factor when choosing among alternative research designs, all promising unbiased estimators.
 
-I apply the insights of my methodological work `r applications`. The common theme across these applications is the goal of improving our ability to make statistical inferences about hard-to-observe social and political phenomena. 
+I apply the insights of my methodological work `r applications`. The common theme across these applications is the goal of improving our ability to make statistical inferences about hard-to-observe social and political phenomena, which in turn leads to a more credible evidence based to support policy decisions. 
 
 <!-- For the sake of brevity, this document focuses on my methodological agenda only. -->
 
@@ -58,7 +58,7 @@ This agenda is currently extending toward improving precision by combining diffe
 ### Substantive contributions
 
 <!-- Two categories -->
-My expertise has also translated into substantive contributions in social science applications. I have primarily focused on issues of accountability, governance, and representation in the `r region`. These contributions fall into two categories.
+My expertise has also translated into substantive contributions in a broad range social science applications. I have primarily focused on issues of accountability, governance, and representation in the `r region`. These contributions fall into two categories.
 
 <!-- Illuminate research practice -->
 First, I have focused on projects that help illuminate survey research practice. For example, in a manuscript forthcoming at the *British Journal of Political Science* with Virginia Oliveros (Tulane), Rebecca Weitz-Shapiro (Brown), and Matt Winters (Illinois), we use a survey experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, thus providing no new information on top of performance. In turn, mentioning the gender of a woman politician leads voters to believe that good performance stems from factors beyond the incumbent's control. This has broader implications for research on gender gaps in the evaluation of public officials, since most survey-experimental analysis on the topic fail to account for this informational imbalance.

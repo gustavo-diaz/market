@@ -4,18 +4,18 @@ name: |
   Department of Political Science \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Search, Data Science"
+subject: "Assistant Professor Search, Public Policy"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor in Data Science"
-research = "applied statistics for the social sciences"
-place = "the University of Guelph"
-discipline = "social science"
-subfield = "the social sciences"
-courses = "probability and statistical inference, statistical computing, linear models, design-based causal inference, machine learning, and computational social science"
+jobtitle = "call for Assistant Professors in Public Policy"
+research = "on quantitative methods for the social sciences and public policy"
+place = "Cambridge"
+discipline = "policy"
+subfield = "evidence-informed policy-making"
+courses = "quantitative methods, policy evaluation, evidence-informed policy making, machine learning, and computational social science"
 source = "website"
 ```
 
@@ -30,7 +30,7 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. Previously, I was a postdoctoral fellow in computational and quantitative methodologies at McMaster University. My work is published or forthcoming in leading outlets in the social and political sciences, including the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. My work is published or forthcoming in leading outlets in the social and political sciences, including the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
@@ -54,9 +54,9 @@ As another example, in a manuscript forthcoming at the *British Journal of Polit
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making statistics accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference. I also lead the math camp for incoming political science and sociology students and run the year-long R workshop that introduces cutting-edge statistical programming practices. Later this year, I will teach an undergrad-level introductory course that helps political science majors become informed consumers of applied statistics, and a seminar on design-based causal inference and machine learning methods for evidence-informed decision making in academia, government, and industry. 
+My teaching focuses on making quantitative methods accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference, and an undergrad-level introductory course that helps political science majors become informed consumers of data analysis. I also lead the math camp for incoming political science and sociology students and run a year-long statistical computing workshop that introduces cutting-edge statistical programming practices. Later this year, I will teach a seminar on evidence-informed decision making in academia, policy, and industry, focusing on the merits and limits of design-based causal inference and machine learning methods to evaluate policies and justify organizational change. 
 
-Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges in developing democracies at Tulane. Both courses emphasized the use of applied statistics to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
+Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges in developing democracies at Tulane. Both courses emphasized the use of quantitative methods to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
