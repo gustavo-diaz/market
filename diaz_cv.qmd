@@ -72,9 +72,26 @@ MA in Political Science",
 )
 ```
 
+<!-- For vitae supplement -->
+# Summary
+**Research**
+
+- Two peer-reviewed publications accepted in 2024
+- One book chapter published in 2024
+- Two other papers submitted for review in 2024 (one rejected in January 2025 and promptly resubmitted)
+
+**Teaching**
+
+- Four new course preparations in total
+- Three delivered in Fall 2024
+- One prepared for delivery in Spring 2025
+
+
+
 # Publications  
 
 2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+*Accepted for publication in October 2024*
 
 
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
@@ -94,14 +111,15 @@ MA in Political Science",
 # Under Review  
 
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Under review at Political Analysis (submitted on December 2024)*
+*Under review at Political Analysis (submitted in December 2024)*
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
-*Under review at the Journal of Experimental Political Science (submitted on October 2024)*
+*Under review at the International Journal of Public Opinion Research (submitted in February 2024)*
 
 # Working Papers
 
-["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
+*Submitted European Research Council grant Application in October 2024*
 
 # Teaching  
 
@@ -137,15 +155,15 @@ University of Illinois
 2016\. Rita and Leonard Ogren Award for Academic Excellence. Department of Political Science,
 University of Illinois
 
-# Invited Talks
+<!-- # Invited Talks -->
 
-2022.\ McMaster University, Spark Centre for Social Research Innovation
+<!-- 2022.\ McMaster University, Spark Centre for Social Research Innovation -->
 
-2021.\ American University, Methods Reading Group
+<!-- 2021.\ American University, Methods Reading Group -->
 
-2021.\ Washington University in St. Louis, Graduate Student Exchange
+<!-- 2021.\ Washington University in St. Louis, Graduate Student Exchange -->
 
-2020.\ University of Notre Dame, Graduate Student Exchange
+<!-- 2020.\ University of Notre Dame, Graduate Student Exchange -->
 
 # Recent Conference Presentations
 2025.\ ["Balancing Precision and Retention in Experimental Design."](https://talks.gustavodiaz.org/texmeth25) Texas Methods Meeting
@@ -157,6 +175,12 @@ University of Illinois
 2024.\ ["How the Presence of Others Can Bias Survey Responses."](https://talks.gustavodiaz.org/privacy_mpsa24) Midwest Political Science Association Conference
 
 <!-- # Conference Presentations -->
+
+<!-- MPSA 2025 -->
+
+<!-- Codex 2025 -->
+
+<!-- TexMeth 2025 -->
 
 <!-- International Society of Political Psychology: 2024 -->
 
