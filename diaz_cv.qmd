@@ -73,25 +73,24 @@ MA in Political Science",
 ```
 
 <!-- For vitae supplement -->
-# Summary
-**Research**
+<!-- # Summary -->
+<!-- **Research** -->
 
-- Two peer-reviewed publications accepted in 2024
-- One book chapter published in 2024
-- Two other papers submitted for review in 2024 (one rejected in January 2025 and promptly resubmitted)
+<!-- - Two peer-reviewed publications accepted in 2024 -->
+<!-- - One book chapter published in 2024 -->
+<!-- - Two other papers submitted for review in 2024 (one rejected in January 2025 and promptly resubmitted) -->
 
-**Teaching**
+<!-- **Teaching** -->
 
-- Four new course preparations in total
-- Three delivered in Fall 2024
-- One prepared for delivery in Spring 2025
+<!-- - Four new course preparations in total -->
+<!-- - Three delivered in Fall 2024 -->
+<!-- - One prepared for delivery in Spring 2025 -->
 
 
 
 # Publications  
 
 2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
-*Accepted for publication in October 2024*
 
 
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
@@ -124,6 +123,8 @@ MA in Political Science",
 # Teaching  
 
 **Northwestern University** 
+
+Machine Learning in Political Science (Graduate) `#h(1fr)`{=typst} TBD
 
 Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
