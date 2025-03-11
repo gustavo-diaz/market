@@ -110,7 +110,7 @@ MA in Political Science",
 # Under Review  
 
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Under review at Political Analysis (submitted in December 2024)*
+*Revise and resubmit at Political Analysis*
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Under review at the International Journal of Public Opinion Research (submitted in February 2024)*
