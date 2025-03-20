@@ -3,18 +3,18 @@ name: |
   Gustavo Diaz \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Search, Public Policy"
+subject: "Lecturer/Assistant Professor Search, School of Politics and International Relations"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for Assistant Professors in Public Policy"
-research = "on quantitative methods for the social sciences and public policy"
-place = "Cambridge"
+jobtitle = "call for a Lecturer/Assistant Professor"
+research = "on quantitative methods for the social sciences"
+place = "UCD"
 discipline = "policy"
-subfield = "evidence-informed policy-making"
-courses = "quantitative methods, policy evaluation, evidence-informed policy making, machine learning, and computational social science"
+subfield = "comparative politics and political behavior"
+courses = "research design, quantitative methods, experiments, survey research, machine learning, and computational social science"
 source = "website"
 ```
 
@@ -38,7 +38,7 @@ My research agenda focuses on using statistics to improve research design before
 
 Focusing on the design and analysis of surveys and experiments, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
 
-For example, in "Balancing Precision and Retention in Experimental Design", we discuss how implementing alternatives to the standard experimental design, such as block randomization, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, we show how precision gains from alternative designs can withstand significant degrees of sample loss.
+For example, in "Balancing Precision and Retention in Experimental Design" (*revise and resubmit at Political Analysis*), we discuss how implementing alternatives to the standard experimental design, such as block randomization, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, we show how precision gains from alternative designs can withstand significant degrees of sample loss.
 
 <!-- Throwaway sentence in the end to mention California, delete if not relevant -->
 As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more efficient technique.
@@ -47,7 +47,7 @@ As another example, in a solo-authored publication in the *Journal of Experiment
 One of the core lessons from my research program on statistical precision is that combining different techniques helps overcome their respective limitations. For example, in work in progress, we combine list experiments with questions from the network scale up method (NSUM), a popular technique in the health sciences, to improve the estimation of sensitive attitudes and behaviors. On the one hand, list experiments suffer from low statistical precision. On the other hand, generalizing to a population of interest through NSUM requires assumptions that are untenable in social science applications. By using NSUM questions as auxiliary information to the list experiment, we improve precision without introducing cumbersome assumptions.
 
 <!-- Update, hopefully they submit the paper soon -->
-My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation. 
+My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application (*PI Lucia Tiscornia at UCD, interview scheduled in June*) seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation. 
 
 As another example, in a manuscript forthcoming at the *British Journal of Political Science*, we use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
 

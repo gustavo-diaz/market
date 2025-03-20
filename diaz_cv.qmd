@@ -146,7 +146,9 @@ Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
 [Comparative Politics](https://gustavodiaz.org/teaching/cp_intro/syllabus/polc2300_syllabus.pdf)  `#h(1fr)`{=typst} Fall 2021
 
-# Awards
+# Grants and Awards
+
+2025-206\. Farrell Fellowship Program. Northwestern University
 
 2019-2020\. Werner Baer Dissertation Writing Fellowship. Lemann Center for Brazilian Studies,
 University of Illinois
@@ -221,3 +223,23 @@ University of Illinois
 2014\. Summer School on Mixed Methods. Pontificia Universidad Católica de Chile
 
 **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
+
+{{< pagebreak >}}
+
+# References
+
+```{=typst}
+#set align(center)
+
+#table(
+columns: (30%, 30%),
+stroke: none,
+align: left,
+[*Jake W. Bowers*], [*Michelle L. Dion*],
+[Professor], [Professor],
+[University of Illinois], [McMaster University],
+[#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")]
+)
+```
+
+
