@@ -73,7 +73,7 @@ MA in Political Science",
 
 # Publications  
 
-2024\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
 
@@ -90,10 +90,12 @@ MA in Political Science",
 
 # Working Papers
 
-["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Under review*
+["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Conditionally accepted*
 
+[Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Under review*
 
-[""Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Under review*
+["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+
 
 ["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
@@ -101,7 +103,9 @@ MA in Political Science",
 
 **Northwestern University** 
 
-Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
+[Evidence-Informed Decision-Making](https://gustavodiaz.org/ps395e/syllabus.pdf) `#h(1fr)`{=typst} Spring 2025
+
+[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf) `#h(1fr)`{=typst} Winter, Spring 2025
 
 [Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2024
 
@@ -111,7 +115,7 @@ Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
 **McMaster University**  
 
-[Research Design for Public Opinion and Public Policy](https://popw24.gustavodiaz.org/) `#h(1fr)`{=typst} Spring 2024, 2023
+[Research Design for Public Opinion and Public Policy](https://popw24.gustavodiaz.org/) `#h(1fr)`{=typst} Spring 2023-24
 
 **Tulane University**  
 
@@ -129,46 +133,47 @@ University of Illinois
 2016\. Rita and Leonard Ogren Award for Academic Excellence. Department of Political Science,
 University of Illinois
 
-# Invited Talks
+# Invited Talks and Conference Presentations
 
-2022.\ McMaster University, Spark Centre for Social Research Innovation
+2025: Texas Methods Meeting. University of Houston \
+`#h(1cm)`{=typst} Computation and Data Exchange. Northwestern University \
+`#h(1cm)`{=typst} Midwest Political Science Association. Chicago, IL
 
-2021.\ American University, Methods Reading Group
+2024: International Society of Political Psychology. Santiago, Chile \
+`#h(1cm)`{=typst} MapleMeth. Western University, Canada \
+`#h(1cm)`{=typst} Midwest Political Science Association. Chicago, IL
 
-2021.\ Washington University in St. Louis, Graduate Student Exchange
+2023: MapleMeth. Western University, Canada \
+`#h(1cm)`{=typst} American Political Science Association. Los Angeles, CA \
+`#h(1cm)`{=typst} Annual Meeting of the Society for Political Methodology. Stanford University
 
-2020.\ University of Notre Dame, Graduate Student Exchange
+2022: Spark Centre for Social Research Innovation. McMaster University, Canada \
+`#h(1cm)`{=typst} Midwest Political Science Association. Chicago, IL \
+`#h(1cm)`{=typst} American Political Science Association. Montréal, QC, Canada \
+`#h(1cm)`{=typst} Annual Meeting of the Society for Political Methodology. Washington University in St. Louis \
+`#h(1cm)`{=typst} Political Economy of Development Virtual Workshop. Journal of Public Policy \
+`#h(1cm)`{=typst} Souther Political Science Association. San Antonio, TX \
+`#h(1cm)`{=typst} Latin American Political Methodology Meeting. Universidad de San Andrés, Argentina
 
-# Conference Presentations
+2021: Methods Reading Group. American University \
+`#h(1cm)`{=typst} Graduate Student Exchange, Washington University in St. Louis \
+`#h(1cm)`{=typst} Midwest Political Science Association. Chicago, IL \
+`#h(1cm)`{=typst} American Political Science Association. Seattle, WA \
+`#h(1cm)`{=typst} Annual Meeting of the Society for Political Methodology. New York University \
+`#h(1cm)`{=typst} Latin American Political Methodology Meeting. ITAM, Mexico \
+`#h(1cm)`{=typst} Quantitative Political Economy Research Group. King's College London \
+`#h(1cm)`{=typst} Midwest Workshop in Empirical Political Science. Purdue University \
+`#h(1cm)`{=typst} NYU-CESS Annual Experimental Political Science Conference. New York University
 
-<!-- Eventually have to make this into a list by year -->
-International Society of Political Psychology: 2024
+2020: Graduate Student Exchange. University of Notre Dame \
+`#h(1cm)`{=typst} Latin American Political Methodology Meeting. Universidade de São Paulo, Brazil \
+`#h(1cm)`{=typst} NYU-CESS Annual Experimental Political Science Conference. New York University 
 
-MapleMeth: 2024, 2023
+2019: American Political Science Association. Washington, DC \
+`#h(1cm)`{=typst} Latin American Political Methodology Meeting. Universidad Católica del Uruguay \
+`#h(1cm)`{=typst} Political Methodology Colloquium. University of Minnesota \
+`#h(1cm)`{=typst} St. Louis Area Methods Meeting. Southern Illinois University 
 
-Midwest Political Science Association: 2024, 2022, 2021, 2018, 2017
-
-American Political Science Association: 2023, 2022, 2021, 2019
-
-Annual Meeting of the Society for Political Methodology: 2023, 2022, 2021
-
-Journal of Public Policy Political Economy of Development Virtual Workshop: 2022
-
-Southern Political Science Association: 2022
-
-Latin American Political Methodology Meeting: 2022, 2021, 2020, 2019
-
-King's College London, Quantitative Political Economy Research Group: 2021
-
-Midwest Workshop in Empirical Political Science: 2021
-
-NYU-CESS Annual Experimental Political Science Conference: 2021, 2020
-
-University of Minnesota Political Methodology Colloquium: 2019
-
-Empirical Implications of Theoretical Models: 2019
-
-St. Louis Area Methods Meeting: 2019
 
 # Additional Training  
 

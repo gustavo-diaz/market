@@ -90,7 +90,7 @@ MA in Political Science",
 
 # Publications  
 
-2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) *British Journal of Political Science* (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
 
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
@@ -110,12 +110,14 @@ MA in Political Science",
 # Under Review  
 
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Revise and resubmit at Political Analysis*
+*Conditionally accepted at Political Analysis*
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
-*Under review at the International Journal of Public Opinion Research (submitted in February 2024)*
+*Under review at the International Journal of Public Opinion Research (submitted in February 2025)*
 
 # Working Papers
+
+["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
 ["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
 *Submitted European Research Council grant Application in October 2024*
@@ -126,9 +128,9 @@ MA in Political Science",
 
 Machine Learning in Political Science (Graduate) `#h(1fr)`{=typst} TBD
 
-Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
+[Evidence-Informed Decision-Making](https://gustavodiaz.org/ps395e/syllabus.pdf) `#h(1fr)`{=typst} Spring 2025
 
-[Introduction to Empirical Methods in Political Science (Undergraduate)](https://gustavodiaz.org/files/teaching/empirical_methods.pdf) `#h(1fr)`{=typst} Spring 2025, Winter 2025
+[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf) `#h(1fr)`{=typst} Winter, Spring 2025
 
 [Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2024
 
@@ -138,7 +140,7 @@ Evidence-Informed Decision-Making `#h(1fr)`{=typst} Spring 2025
 
 **McMaster University**  
 
-[Research Design for Public Opinion and Public Policy](https://popw24.gustavodiaz.org/) `#h(1fr)`{=typst} Spring 2024, 2023
+[Research Design for Public Opinion and Public Policy](https://popw24.gustavodiaz.org/) `#h(1fr)`{=typst} Spring 2023-24
 
 **Tulane University**  
 
@@ -168,7 +170,7 @@ University of Illinois
 
 <!-- 2020.\ University of Notre Dame, Graduate Student Exchange -->
 
-# Recent Conference Presentations
+# Selected Talks
 2025.\ ["Balancing Precision and Retention in Experimental Design."](https://talks.gustavodiaz.org/texmeth25) Texas Methods Meeting
 
 2024.\ ["Combining List Experiments and the Network Scale-Up Method."](https://talks.gustavodiaz.org/ispp24) Annual Meeting of the International Society of Political Psychology
@@ -224,22 +226,22 @@ University of Illinois
 
 **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
 
-{{< pagebreak >}}
+<!-- {{< pagebreak >}} -->
 
-# References
+<!-- # References -->
 
-```{=typst}
-#set align(center)
+<!-- ```{=typst} -->
+<!-- #set align(center) -->
 
-#table(
-columns: (30%, 30%),
-stroke: none,
-align: left,
-[*Jake W. Bowers*], [*Michelle L. Dion*],
-[Professor], [Professor],
-[University of Illinois], [McMaster University],
-[#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")]
-)
-```
+<!-- #table( -->
+<!-- columns: (30%, 30%), -->
+<!-- stroke: none, -->
+<!-- align: left, -->
+<!-- [*Jake W. Bowers*], [*Michelle L. Dion*], -->
+<!-- [Professor], [Professor], -->
+<!-- [University of Illinois], [McMaster University], -->
+<!-- [#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")] -->
+<!-- ) -->
+<!-- ``` -->
 
 
