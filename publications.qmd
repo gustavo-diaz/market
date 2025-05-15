@@ -27,15 +27,14 @@ Gustavo Diaz
 ## Under review & Forthcoming
 
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Under review at The American Journal of Political Science (submitted on August 2024)*
+*Conditionally accepted at Political Analysis*
 
-["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://gustavodiaz.org/files/research/gender_performance.pdf) (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
-*Conditionally accepted at The British Journal of Political Science*
-
-
-
+["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
+*Under review at the International Journal of Public Opinion Research (submitted in February 2025)*
 
 ## Published
+
+2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters) 
 
 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
 

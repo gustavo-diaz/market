@@ -90,6 +90,8 @@ MA in Political Science",
 
 # Publications  
 
+2025\. ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Conditionally accepted at Political Analysis*
+
 2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
 
@@ -109,9 +111,6 @@ MA in Political Science",
 
 # Under Review  
 
-["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Conditionally accepted at Political Analysis*
-
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Under review at the International Journal of Public Opinion Research (submitted in February 2025)*
 
@@ -126,7 +125,7 @@ MA in Political Science",
 
 **Northwestern University** 
 
-Machine Learning in Political Science (Graduate) `#h(1fr)`{=typst} TBD
+Machine Learning (Graduate) `#h(1fr)`{=typst} TBD
 
 [Evidence-Informed Decision-Making](https://gustavodiaz.org/ps395e/syllabus.pdf) `#h(1fr)`{=typst} Spring 2025
 
