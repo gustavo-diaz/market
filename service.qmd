@@ -1,0 +1,51 @@
+---
+format: 
+  typst:
+    margin:
+      x: 1in
+      y: 1in
+fontsize: 12pt
+---
+
+```{=typst} 
+#show link: set text(blue)
+
+#set page(numbering: none)
+```
+
+## Peer review contributions
+
+Gustavo Diaz  
+*Department of Political Science*  
+*Northwestern University*  
+<gustavo.diaz@northwestern.edu>  
+
+```{=typst} 
+#line(length: 100%)
+```
+
+### Conference organization
+
+- 81st Annual Midwest Political Science Association Conference. April 4-7, 2024. Chicago, IL  
+*Section chair for the research methods subfield. Reviewed and selected proposals, organized panels, and chaired selected panels*
+
+
+### Referee in peer-review publications
+
+- American Political Science Review  
+*Most important general interest political science journal*
+
+- British Journal of Political Science  
+*Top five journal general interest political science journal worldwide*
+
+- Comparative Political Studies   
+*Most important journal in the subfield of comparative politics*
+
+- Public Opinion Quarterly  
+ *Prominent interdisciplinary journal for the study of public opinion*
+ 
+- Journal of Elections, Public Opinion and Parties  
+*International journal on elections, public opinion, participation, and political parties*
+ 
+- PS: Political Science & Politics  
+*Journal of record for political science as a profession. Covers pedagogy, political events in the US and abroad, and research on the state of the discipline.*

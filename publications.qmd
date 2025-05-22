@@ -27,7 +27,9 @@ Gustavo Diaz
 ## Under review & Forthcoming
 
 ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter)  
-*Conditionally accepted at Political Analysis*
+*Fortchoming in Political Analysis*  
+
+> Equal contribution. This is the most important journal on political science research methods
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Under review at the International Journal of Public Opinion Research (submitted in February 2025)*

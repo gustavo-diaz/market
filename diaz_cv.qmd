@@ -12,9 +12,9 @@ author:
     - icon: fa brands github
       text: gustavo-diaz
       url: https://github.com/gustavo-diaz
-    - icon: fa brands x-twitter
-      text: gusvalo
-      url: https://twitter.com/gusvalo
+    - icon: assets/icon/bsky.svg
+      text: gustavodiaz.org
+      url: https://bsky.app/profile/gustavodiaz.org
     - icon: assets/icon/bi-house-fill.svg
       text: gustavodiaz.org
       url: https://gustavodiaz.org/
@@ -90,7 +90,7 @@ MA in Political Science",
 
 # Publications  
 
-2025\. ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Conditionally accepted at Political Analysis*
+2025\. ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Forthcoming in Political Analysis*
 
 2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
@@ -112,7 +112,7 @@ MA in Political Science",
 # Under Review  
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
-*Under review at the International Journal of Public Opinion Research (submitted in February 2025)*
+*Under review at Research & Politics (submitted in May 2025)*
 
 # Working Papers
 
@@ -225,22 +225,23 @@ University of Illinois
 
 **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
 
-<!-- {{< pagebreak >}} -->
+{{< pagebreak >}}
 
-<!-- # References -->
+# References
 
-<!-- ```{=typst} -->
-<!-- #set align(center) -->
+```{=typst}
+#set align(center)
 
-<!-- #table( -->
-<!-- columns: (30%, 30%), -->
-<!-- stroke: none, -->
-<!-- align: left, -->
-<!-- [*Jake W. Bowers*], [*Michelle L. Dion*], -->
-<!-- [Professor], [Professor], -->
-<!-- [University of Illinois], [McMaster University], -->
-<!-- [#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")] -->
-<!-- ) -->
-<!-- ``` -->
+#table(
+columns: (25%, 25%, 25%, 25%),
+stroke: none,
+align: left,
+[*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*], [*Gisela Sin*],
+[Professor], [Professor], [Professor], [Professor],
+[University of Illinois], [McMaster University], [University of Illinois], [University of Illinois],
+[#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")],
+[#link("mwinters@illinois.edu")], [#link("gsin@illinois.edu")]
+)
+```
 
 

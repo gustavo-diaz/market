@@ -1,0 +1,34 @@
+---
+title: Publications
+format: pdf
+fontsize: 10pt
+geometry:
+      - left=.75in
+      - textwidth=4.5in
+      - marginparsep=.25in
+      - marginparwidth=2.25in
+---
+
+## Under review & Forthcoming
+
+- [Equal contribution. Most important political science research methods journal]{.aside} ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Fortchoming in Political Analysis*  
+
+- [Primary author]{.aside} ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
+*Under review at Research & Politics (submitted in May 2025)*
+
+## Published
+
+- [Equal contribution. Top five general interest political science journal around the world]{.aside} 2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters) 
+
+- [Included in a special issue to honor Rebecca Morton, one of the pioneers of experimental political science]{.aside} 2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
+
+- [Equal contribution]{.aside} 2024\. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing (with Kelly Senters Piazza)
+
+- [Equal contribution]{.aside} 2022\. ["Women Held Back: The Depressing Effect of Institutional and Norms-Based Barriers on Female Representation in Corrupt Contexts."](https://gustavodiaz.org/files/research/gender_corruption.pdf) In [*Norms, Gender and Corruption: Understanding the Nexus*](https://www.e-elgar.com/shop/gbp/norms-gender-and-corruption-9781802205824.html), edited by Ina Kubbe and Ortrun Merkle. Edward Elgar Publishing
+(with Kelly Senters Piazza)
+
+- [Equal contribution]{.aside} 2020\. ["Light in the Midst of Chaos: COVID-19 and Female Political Representation."](https://doi.org/10.1016/j.worlddev.2020.105125) *World Development* 136: 105125 (with Kelly Senters Piazza)
+
+- [Primary author. This piece is often included in PhD courses on research design and experiments in the social sciences]{.aside} 2020\. ["Survey Experiments and the Quest for Valid Interpretation."](https://gustavodiaz.org/files/research/sage_survey_experiments_chapter.pdf) In [*The SAGE Handbook of Research Methods in Political Science and International Relations*](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-research-methods-in-political-science-and-international-relations/book262875), edited by Luigi Curini and Robert Franzese. London: Sage (with Christopher Grady and James H. Kuklinski)
+
+- 2014\. ["Civic Education and Voter Turnout Under Voluntary Voting."](https://revistapolitica.uchile.cl/index.php/RP/article/view/33099/34813) *Política* 52(1): 61-91 (In Spanish)
