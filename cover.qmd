@@ -1,20 +1,21 @@
 ---
 name: |
   Gustavo Diaz \
+  Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Search, Institute of Political Science"
+subject: "Assistant Professor Search, UIC Common Curriculum"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for Assistant Professors in Political Science and/or International Relations"
+jobtitle = "call for an Assistant Professor of Research Design and Quantitative Methods"
 research = "quantitative methods in the social sciences"
-place = "Leiden University"
+place = "Yonsei. Moreover, this position is highly attractive to me due to family circumstances"
 discipline = "social science"
 subfield = "the social sciences"
-courses = "quantitative methods, machine learning, causal inference, experiments, and statistical computing"
+courses = "research design, quantitative methods, statistical computing, machine learning, causal inference, and survey methods"
 source = "website"
 ```
 
@@ -29,7 +30,7 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. My work is published or forthcoming in leading political science outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
@@ -50,7 +51,7 @@ One of the core lessons from my research program on statistical precision is tha
 My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application (*PI Lucia Tiscornia at UCD, interview scheduled in June*) seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation.
 
 <!-- Less relevant for stats jobs, still on research statement -->
-As another example, in a manuscript forthcoming at the *British Journal of Political Science*, we use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
+<!-- As another example, in a manuscript forthcoming at the *British Journal of Political Science*, we use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account. -->
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
