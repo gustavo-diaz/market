@@ -26,9 +26,9 @@ Gustavo Diaz
 <!-- ### Teaching philosophy -->
 
 ```{r setup, include=F}
-field = "applied statistics"
-students = "social scientists"
-methods_offer = "courses on probability and statistics, design-based causal inference, machine learning, data visualization, and statistical computing"
+field = "quantitative methods"
+students = "political scientists"
+methods_offer = "quantitative methods, machine learning, causal inference, experiments, and statistical computing"
 source = "website"
 ```
 
@@ -50,7 +50,7 @@ Flexibility and accountability also help in preventing instances of discriminati
 
 ### Teaching experience
 
-At Northwestern, I am the central person statistics courses in the department. I teach the first course in the graduate methods sequence, focusing on probability and statistical inference. I also teach the undergrad level introduction to research methods in political science, a course that teaches political science majors to become informed consumers of data analysis. I am the primary instructor (along with graduate TAs) for the math camp program for incoming political science and sociology students, and run the year-long statistical computing workshop that introduces cutting-edge coding practices. This quarter, I will teach a seminar on the use of design-based causal inference and machine learning methods to inform decision-making in academia, policy, and industry. Next year, I will add an advanced graduate seminar on machine learning to my portfolio.
+At Northwestern, I am the central person statistics courses in the department. I teach the first course in the graduate methods sequence, focusing on probability and statistical inference. I also teach the undergrad level introduction to research methods in political science, a course that teaches political science majors to become informed consumers of data analysis. I am the primary instructor (along with graduate TAs) for the math camp program for incoming political science and sociology students, and run the year-long statistical computing workshop that introduces cutting-edge coding practices. This quarter, I teach a seminar on the use of experiments and machine learning to inform decision-making in academia, policy, and industry. Next year, I will add a postgraduate seminar on machine learning to my portfolio.
 
 Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on using quantitative evidence to make credible policy recommendations. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry.
 

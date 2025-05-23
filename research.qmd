@@ -24,9 +24,9 @@ Gustavo Diaz
 
 
 ```{r setup, include=F}
-discipline = "Social scientists"
-fields = "design-based causal inference and machine learning"
-applications = "to questions around the challenges to accountability and representation in the social sciences"
+discipline = "Political scientists"
+fields = "statistics and computational social science"
+applications = "to questions around the challenges to accountability and representation in political economy and political behavior"
 region = "Global South"
 ```
 

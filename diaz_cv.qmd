@@ -90,7 +90,7 @@ MA in Political Science",
 
 # Publications  
 
-2025\. ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) (with Erin Rossiter) *Forthcoming in Political Analysis*
+2025\. ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) *Conditionally accepted at Political Analysis* (with Erin Rossiter)
 
 2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
 
@@ -225,23 +225,23 @@ University of Illinois
 
 **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
 
-{{< pagebreak >}}
+<!-- {{< pagebreak >}} -->
 
-# References
+<!-- # References -->
 
-```{=typst}
-#set align(center)
+<!-- ```{=typst} -->
+<!-- #set align(center) -->
 
-#table(
-columns: (25%, 25%, 25%, 25%),
-stroke: none,
-align: left,
-[*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*], [*Gisela Sin*],
-[Professor], [Professor], [Professor], [Professor],
-[University of Illinois], [McMaster University], [University of Illinois], [University of Illinois],
-[#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")],
-[#link("mwinters@illinois.edu")], [#link("gsin@illinois.edu")]
-)
-```
+<!-- #table( -->
+<!-- columns: (25%, 25%, 25%, 25%), -->
+<!-- stroke: none, -->
+<!-- align: left, -->
+<!-- [*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*], [*Gisela Sin*], -->
+<!-- [Professor], [Professor], [Professor], [Professor], -->
+<!-- [University of Illinois], [McMaster University], [University of Illinois], [University of Illinois], -->
+<!-- [#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")], -->
+<!-- [#link("mwinters@illinois.edu")], [#link("gsin@illinois.edu")] -->
+<!-- ) -->
+<!-- ``` -->
 
 
