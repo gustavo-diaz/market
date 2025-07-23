@@ -90,31 +90,40 @@ MA in Political Science",
 
 # Publications  
 
-2025\. ["Balancing Precision and Retention in Experimental Design"](https://gustavodiaz.org/files/research/precision_retention.pdf) *Accepted at Political Analysis* (with Erin Rossiter)
+```{=typst}
+#set enum(
+  reversed: true
+)
+```
 
-2025\. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54 (with Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters)  
+1. **Diaz, Gustavo** and Erin Rossiter. 2025. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis*
 
+1. **Diaz, Gustavo**, Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters. 2025. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54  
 
-2024\. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
+1. **Diaz, Gustavo**. 2024. ["Assessing the Validity of Prevalence Estimates in Double List Experiments."](https://doi.org/10.1017/XPS.2023.24) *Journal of Experimental Political Science* 11(2): 162-174
 
+1. Piazza, Kelly Senters and **Gustavo Diaz**. 2024. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing
 
-2024\. ["Data Sources for the Study of Gender and Corruption."](https://gustavodiaz.org/files/research/data_corruption.pdf) In *Handbook on Gender and Corruption in Democracies*, edited by Emily Beaulieu Bacchus and Tiffany Barnes. Edward Elgar Publishing (with Kelly Senters Piazza)
+1. **Diaz, Gustavo** and Kelly Senters Piazza. 2022. ["Women Held Back: The Depressing Effect of Institutional and Norms-Based Barriers on Female Representation in Corrupt Contexts."](https://gustavodiaz.org/files/research/gender_corruption.pdf) In [*Norms, Gender and Corruption: Understanding the Nexus*](https://www.e-elgar.com/shop/gbp/norms-gender-and-corruption-9781802205824.html), edited by Ina Kubbe and Ortrun Merkle. Edward Elgar Publishing
 
-2022\. ["Women Held Back: The Depressing Effect of Institutional and Norms-Based Barriers on Female Representation in Corrupt Contexts."](https://gustavodiaz.org/files/research/gender_corruption.pdf) In [*Norms, Gender and Corruption: Understanding the Nexus*](https://www.e-elgar.com/shop/gbp/norms-gender-and-corruption-9781802205824.html), edited by Ina Kubbe and Ortrun Merkle. Edward Elgar Publishing
-(with Kelly Senters Piazza)
+1. Piazza, Kelly Senters and **Gustavo Diaz**. 2020. ["Light in the Midst of Chaos: COVID-19 and Female Political Representation."](https://doi.org/10.1016/j.worlddev.2020.105125) *World Development* 136: 105125 (with Kelly Senters Piazza)
 
-2020\. ["Light in the Midst of Chaos: COVID-19 and Female Political Representation."](https://doi.org/10.1016/j.worlddev.2020.105125) *World Development* 136: 105125 (with Kelly Senters Piazza)
+1. **Diaz, Gustavo**, Christopher Grady, and James H. Kuklinski. 2020. ["Survey Experiments and the Quest for Valid Interpretation."](https://gustavodiaz.org/files/research/sage_survey_experiments_chapter.pdf) In [*The SAGE Handbook of Research Methods in Political Science and International Relations*](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-research-methods-in-political-science-and-international-relations/book262875), edited by Luigi Curini and Robert Franzese. London: Sage
 
-2020\. ["Survey Experiments and the Quest for Valid Interpretation."](https://gustavodiaz.org/files/research/sage_survey_experiments_chapter.pdf) In [*The SAGE Handbook of Research Methods in Political Science and International Relations*](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-research-methods-in-political-science-and-international-relations/book262875), edited by Luigi Curini and Robert Franzese. London: Sage (with Christopher Grady and James H. Kuklinski)
+1. **Diaz, Gustavo**. 2014. ["Civic Education and Voter Turnout Under Voluntary Voting."](https://revistapolitica.uchile.cl/index.php/RP/article/view/33099/34813) *Política* 52(1): 61-91 (In Spanish)
 
-2014\. ["Civic Education and Voter Turnout Under Voluntary Voting."](https://revistapolitica.uchile.cl/index.php/RP/article/view/33099/34813) *Política* 52(1): 61-91 (In Spanish)
+```{=typst}
+#set enum(
+  reversed: false
+)
+```
 
 # Under Review  
 
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Under review at Research & Politics (submitted in May 2025)*
 
-# Working Papers
+# Selected Working Papers
 
 ["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
@@ -125,17 +134,18 @@ MA in Political Science",
 
 **Northwestern University** 
 
-Machine Learning (Graduate) `#h(1fr)`{=typst} TBD
+[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2026, 2025
+
+Machine Learning (Graduate) `#h(1fr)`{=typst} Winter 2026
+
+[Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2025, 2024
+
+[Math Camp (Graduate)](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2025
+
+[Statistical Computing Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 2025-26, 2024-25
 
 [Evidence-Informed Decision-Making](https://gustavodiaz.org/ps395e/syllabus.pdf) `#h(1fr)`{=typst} Spring 2025
 
-[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf) `#h(1fr)`{=typst} Winter, Spring 2025
-
-[Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2024
-
-[Social Science Math Camp](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2024
-
-[R Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 2024-25
 
 **McMaster University**  
 
