@@ -17,7 +17,7 @@ library(fontawesome)
 gs4_deauth()
 
 ## Set date threshold to display jobs
-t = "2025-03-15"
+t = "2025-09-15"
 ```
 
 ## Upcoming Deadlines
@@ -79,23 +79,4 @@ for(i in 1:nrow(jobs)){
 }
 ```
 
-
-## Materials
-
-- [CV](/diaz_cv.pdf)
-- [Cover letter](/cover.pdf)
-- [Research statement](/research.pdf)
-- [Teaching statement](/teaching.pdf)
-- [Diversity statement](/diversity.pdf)
-
-
-## Papers
-
-TBD. See [research](https://gustavodiaz.org/research.html) and [talks](https://gustavodiaz.org/talk.html) pages for now.
-
-## Teaching portfolio
-
-TBD. See [teaching](https://gustavodiaz.org/teaching.html) page for now.
-
-<!-- ## Highlights -->
 
