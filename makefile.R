@@ -16,6 +16,10 @@ quarto::quarto_render("teaching.qmd",
 quarto::quarto_render("diversity.qmd",
                       output_file = "diaz_diversity_statement.pdf")
 
+# comparative
+quarto::quarto_render("cover_cp.qmd", 
+                      output_file = "diaz_cover_letter.pdf")
+
 # funky personal statement that combines many of the above
 quarto::quarto_render("personal.qmd",
                       output_file = "diaz_personal_statement.pdf")
