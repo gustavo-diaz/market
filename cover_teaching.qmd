@@ -4,18 +4,18 @@ name: |
   Department of Political Science \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Clinical Assistant Professor search"
+subject: "Assistant Professor Search, Research Methods and Political Psychology"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for a Clinical Assistant Professor in Applied Statistics for Social Science Research"
+jobtitle = "call for an Assistant Professor in Research Methods and Political Psychology"
 research = "applied statistics for the social sciences"
-place = "NYU"
+place = "LMU"
 discipline = "social science"
-subfield = "the social sciences"
-courses = "probability and statistical inference, statistical computing, causal inference, machine learning, and computational social science"
+subfield = "political behavior and political psychology, including contexts beyond my expertise"
+courses = "research design and data analysis throughout the required sequence. I can also offer electives on survey research, data visualization, statistical computing, and data for decision-making"
 source = "website"
 ```
 
@@ -34,9 +34,7 @@ I write to express my interest in your `r jobtitle`. I am an Assistant Professor
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making statistics accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on probability and statistical inference, and an undergrad-level introductory course that helps political science majors become informed consumers of applied statistics. I also lead the math camp for incoming political science and sociology students and run the year-long statistical computing workshop that introduces cutting-edge coding practices. Later this year, I will teach a seminar on the use of design-based causal inference and machine learning methods to inform decision-making in academia, government, and industry. Next year, my goal is to teach an advanced graduate practicum on machine learning methods for statistical inference.
-
-Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster and evidence-based policy to address social and political challenges in developing democracies at Tulane. Both courses emphasized the use of applied statistics to generate credible evidence. Beyond the classroom, my previous role as the methods editorial assistant for the *American Political Science Review* gave me the opportunity to shape and influence the development of cutting-edge methods in the field, a goal that I continue to pursue through service and mentoring.
+My teaching focuses on making quantitative methods accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge statistical programming practices. Next year, I will add a graduate seminar on Machine Learning to my portfolio. Beyond the classroom, I am currently mentoring a rising sophomore as part of the Farrell Fellowship program at Northwestern, with the objective of incorporating them as a co-author on projects on experimental research design.
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
@@ -46,25 +44,28 @@ Before joining Northwestern, I taught data analysis for public policy and public
 <!-- Also tweak depending on job -->
 I am prepared to teach courses on `r courses`. You can find copies of current and future syllabi in my `r source`.
 
+
+
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
 <!-- Survey experiments and block rand -->
-My research agenda focuses on using statistics to improve research design before data collection. My current focus is on statistical precision. This is overlooked in the statistics, econometrics, and political methodology literature in favor of identifying unbiased estimators. Implicitly, this literature assumes that one can improve statistical precision by just increasing sample size. This is not feasible in many `r discipline` applications due to practical or ethical considerations.
+My research is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*. I focus on using statistics to improve research design before data collection. My current focus is on statistical precision. This is overlooked in the statistics, econometrics, and political methodology literature in favor of identifying unbiased estimators. Implicitly, this literature assumes that one can improve statistical precision by just increasing sample size. This is not feasible in many `r discipline` applications due to practical or ethical considerations.
 
-Focusing on the design and analysis of surveys and experiments, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
+Focusing on survey and experimental data, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
 
-For example, in "Balancing Precision and Retention in Experimental Design", we discuss how implementing alternatives to the standard experimental design, such as block randomization, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, we show how precision gains from alternative designs can withstand significant degrees of sample loss.
+For example, in "Balancing Precision and Retention in Experimental Design", published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
 
 <!-- Throwaway sentence in the end to mention California, delete if not relevant -->
-As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more efficient technique.
+As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. Through the reanalysis of a study on support for anti-immigration organizations in California. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more efficient technique.
 
 <!-- Flag more clearly these are future directions? -->
-One of the core lessons from my research program on statistical precision is that combining different techniques helps overcome their respective limitations. For example, in work in progress, we combine list experiments with questions from the network scale up method (NSUM), a popular technique in the health sciences, to improve the estimation of sensitive attitudes and behaviors. On the one hand, list experiments suffer from low statistical precision. On the other hand, generalizing to a population of interest through NSUM requires assumptions that are untenable in social science applications. By using NSUM questions as auxiliary information to the list experiment, we improve precision without introducing cumbersome assumptions.
+One of the core lessons from my research program on statistical precision is that combining different techniques helps overcome their respective limitations. For example, in collaborative work in progress, I combine list experiments with questions from the network scale up method (NSUM), a popular technique in the health sciences, to improve the estimation of sensitive attitudes and behaviors. On the one hand, list experiments suffer from low statistical precision. On the other hand, generalizing to a population of interest through NSUM requires assumptions that are untenable in social science applications. By using NSUM questions as auxiliary information to the list experiment, we improve precision without introducing cumbersome assumptions.
 
-<!-- Update, hopefully they submit the paper soon -->
-My research also influences substantive work in `r subfield`. In a working paper, we follow on our efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of an European Research Council grant application seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation. 
+<!-- Applied work -->
+My research also influences substantive work in `r subfield`. In a working paper, I follow on my team's efforts to incorporate NSUM into social science applications by documenting the prevalence of criminal governance strategies in Uruguay. This is the basis of a recently awarded *European Research Council Starting Grant*  seeking to understand criminal governance in least-expected contexts from a comparative perspective, which will in turn serve as a platform for further methodological innovation in survey research.
 
-As another example, in a manuscript forthcoming at the *British Journal of Political Science*, we use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, we find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. We attribute this result to voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
+<!-- Less relevant for stats jobs, still on research statement -->
+As another example, in an article recently published in the *British Journal of Political Science*, I use an information experiment to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, this paper find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
 
 
 <!-- CLOSING -->

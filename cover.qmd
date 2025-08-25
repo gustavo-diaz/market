@@ -14,7 +14,7 @@ jobtitle = "call for an Assistant Professor"
 research = "quantitative methods for the social sciences"
 place = "Texas A&M"
 discipline = "political science"
-subfield = "comparative politics political behavior"
+subfield = "comparative politics and political behavior"
 courses = "throughout the research design and quantitative methods sequence. I can also offer electives on advanced statistical inference, statistical computing, machine learning, causal inference, and experiments"
 source = "website"
 ```
