@@ -159,7 +159,7 @@ Machine Learning (Graduate) `#h(1fr)`{=typst} Winter 2026
 
 # Grants and Awards
 
-2025-206\. Farrell Fellowship Program. Northwestern University
+2025-2026\. Farrell Fellowship Program. Northwestern University
 
 2019-2020\. Werner Baer Dissertation Writing Fellowship. Lemann Center for Brazilian Studies,
 University of Illinois
