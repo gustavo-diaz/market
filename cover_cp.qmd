@@ -3,18 +3,18 @@ name: |
   Gustavo Diaz \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Faculty Position, Department of Political Science"
+subject: "Assistant Professor Position, Department of Political Science"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for tenure-track faculty in Comparative Politics/International Relations"
-research = "the challenges to accountability, representation, and governance in the Global South"
-place = "Sogang"
+jobtitle = "call for an Assistant Professor in Comparative Politics or International Relations"
+research = "the barriers to democracy in the Global South"
+place = "Penn State"
 discipline = "political science"
 subfield = "comparative politics and quantitative methods"
-courses = "the required research methods sequence at all levels. I am also eager to develop new courses on comparative politics, politics of the Global South, Latin American Politics, and evidence-informed policy-making"
+courses = "research design and quantitative methods along the required sequence at all levels. I am also eager to develop new courses on causal inference, experiments, computational social science, comparative politics, challenges to democracy, and politics of the Global South/Latin America"
 source = "website"
 ```
 
@@ -32,13 +32,13 @@ Dear Members of the Search Committee,
 I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University. My research centers on `r subfield`. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
-My research agenda focuses on `r research`. I focus primarily on the unintended consequences of investigating elected officials' performance and disseminating the resulting information to the general public. Scholars, governments, and civil society organizations have focused on promoting transparency in this manner to overcome the challenges to democracy around the world. However, these efforts are often not as effective as the literature would suggest due to strategic and behavioral barriers to representation.
+My research agenda focuses on `r research`, with emphasis on the challenges to accountability, governance, and representation. These are areas where scholars, governments, and civil society organizations have devoted considerable resources to the implementation of pro-democracy interventions, ranging from gender quotas to anti-corruption investigations. However, the effectiveness of these interventions is stifled by unintended consequences emerging from strategic or behavioral barriers.
 
-My latest research program in this area delves into the unintended *gendered* consequences arising from increased attention to politicians' performance in office. For example, in an article published at the *British Journal of Political Science*, my coauthors and I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
+For example,my latest research program in this area delves into the unintended *gendered* consequences arising from increased attention to politicians' performance in office. One would expect increased access to information to enhance accountability, but equivalent performance can be interpreted differently depending on politicians' gender. In an article published at the *British Journal of Political Science*, my coauthors and I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
 
 As another example, in a collaborative piece published in *World Development*, I discuss how the COVID-19 pandemic, through increased discontent with the performance of male-led executives and by priming a health issue commonly associated with women, lead to an increased demand for female political representation. However, as I show in a separate book chapter in *Norms, Gender and Corruption: Understanding the Nexus*, this increased demand for representation, even if met by an increased supply of women seeking elected office, does not immediately translate into descriptive representation due to a combination of social and institutional barriers that prevent women challengers from competing in equal footing.
 
-This program is evolving in two directions. First, the attention to the study of unintended consequences has led to produce scholarship on improving research design in a way that facilitates the detection of hard-to-observe social and political phenomena. For example, a piece published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
+This program is evolving in two directions. First, the attention to the study of unintended consequences has led to produce scholarship on improving research design in a way that facilitates the detection of hard-to-observe social and political phenomena. For example, in a piece published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
 
 As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more efficient technique.
 
