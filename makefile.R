@@ -28,6 +28,10 @@ quarto::quarto_render("personal.qmd",
 quarto::quarto_render("cover_teaching.qmd", 
                       output_file = "diaz_cover_letter.pdf")
 
+quarto::quarto_render("research_cp.qmd",
+                      output_file = "diaz_research_statement.pdf")
+
+
 # evals
 quarto::quarto_render("evals.qmd",
                       output_file = "diaz_teaching_evals.pdf")
