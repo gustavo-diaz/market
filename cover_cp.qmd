@@ -3,18 +3,18 @@ name: |
   Gustavo Diaz \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Position, Department of Political Science"
+subject: "Assistant Professor Position, International Politics"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor"
-research = "the barriers to democracy in the Global South"
-place = "Mizzou"
+jobtitle = "call for an Assistant Professor in International Politics"
+research = "the challenges to accountability, representation, and governance in the in the Global South"
+place = "Western"
 discipline = "political science"
 subfield = "comparative politics and quantitative methods"
-courses = "research design and quantitative methods along the required sequence at all levels. I am also eager to develop new courses on causal inference, experiments, computational social science, comparative politics, challenges to democracy, and politics of the Global South/Latin America"
+courses = "comparative politics, challenges to democracy, politics of the Global South/Latin America, as well as core and electives on quantitative methods"
 source = "website"
 ```
 
@@ -32,7 +32,7 @@ Dear Members of the Search Committee,
 I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University. My research centers on `r subfield`. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
-My research agenda focuses on `r research`, with emphasis on the challenges to accountability, governance, and representation. These are areas where scholars, governments, and civil society organizations have devoted considerable resources to the implementation of pro-democracy interventions, ranging from gender quotas to anti-corruption investigations. However, the effectiveness of these interventions is stifled by unintended consequences emerging from informational imbalances across strategic actors.
+My research agenda focuses on `r research`. These are areas where scholars, governments, and civil society organizations have devoted considerable resources to the implementation of pro-democracy interventions, ranging from gender quotas to anti-corruption investigations. However, the effectiveness of these interventions is stifled by unintended consequences emerging from informational imbalances across strategic actors.
 
 For example, my latest research program in this area delves into the unintended *gendered* consequences arising from increased attention to politicians' performance in office. One would expect increased access to information to enhance accountability, but equivalent performance can be interpreted differently depending on politicians' gender. In an article published at the *British Journal of Political Science*, my coauthors and I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
 
@@ -49,7 +49,7 @@ an *European Research Council Starting Grant*, my team seek to understand crimin
 <!-- Remember to tweak based on whether the job is cp friendly -->
 At Northwestern, I primarily teach courses on quantitative methods. I lead the first course in the PhD methods sequence, focusing on probability and statistical inference, the required undergraduate level introduction to empirical political science, and a seminar on evidence-informed decision-making. I also lead the math camp for incoming political science and sociology students and run a year-long statistical computing workshop that introduces cutting-edge statistical programming practices. Later this year, I will also offer a PhD seminar on machine learning.
 
-Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, Introduction to Comparative Politics and, and Politics of Developing Democracies. Beyond the classroom, I am currently mentoring a rising sophomore as part of the Farrell Fellowship program at Northwestern, with the objective of incorporating them as a co-author on projects on experimental research design.
+Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, Introduction to Comparative Politics and, and Politics of Developing Democracies. Beyond the classroom, I collaborate with a rising sophomore, as part of the Farrell Fellowship program at Northwestern, on various projects in my agenda. I also advise theses in Political Science and the program in Mathematical Methods for the Social Sciences.
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
