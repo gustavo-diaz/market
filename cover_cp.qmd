@@ -3,18 +3,18 @@ name: |
   Gustavo Diaz \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Position, International Politics"
+subject: "Lecturer Position, Public Policy"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor in International Politics"
-research = "the challenges to accountability, representation, and governance in the in the Global South"
-place = "Western"
+jobtitle = "call for a Lecturer in Public Policy"
+research = "the challenges to accountability, representation, and governance in the Global South from an evidence-informed policy perspective"
+place = "Queen's University Belfast"
 discipline = "political science"
-subfield = "comparative politics and quantitative methods"
-courses = "comparative politics, challenges to democracy, politics of the Global South/Latin America, as well as core and electives on quantitative methods"
+subfield = "comparative public policy and quantitative methods"
+courses = "comparative public policy, challenges to democracy, politics of the Global South/Latin America, as well as core and electives on research methods"
 source = "website"
 ```
 

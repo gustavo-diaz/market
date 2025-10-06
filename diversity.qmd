@@ -13,7 +13,7 @@ fontsize: 12pt
 #set page(numbering: none)
 ```
 
-## Diversity Statement
+## Inclusion Statement
 
 Gustavo Diaz  
 *Department of Political Science*   
@@ -27,18 +27,18 @@ Gustavo Diaz
 
 
 ```{r, include = FALSE}
-field = "applied statistics and social science research"
-person = "statistician"
+field = "computational social science and statistics"
+person = "methodologist"
 ```
 
 
-I am a first-generation scholar in three ways. I am part of the first generation in my family to receive a bachelor's degree, part of the first generation seeking postgraduate education opportunities overseas, and the only person in my family pursuing an academic career. The other "part" is an older sibling that tried to convince me to follow their steps and become and economics major. I refused, since I thought it would involve too much math. I chose political science instead, as it seemed to have less math but still enough to meet family expectations. I was wrong. It had as much math, and I hated until I learned halfway through that I could use data to generate knowledge.
+I am a first-generation scholar in three ways. I am part of the first generation in my family to receive a bachelor's degree, part of the first generation seeking postgraduate education opportunities overseas, and the only person in my family pursuing an academic career. The other "part" is an older sibling that tried to convince me to follow their steps and become and economics major. I refused, since I thought it would involve too much math. I chose political science instead, as it seemed to have less math but still enough to meet family expectations. I was wrong. It had as much math, and I hated it until I learned halfway through it that I could use data to generate knowledge.
 
-My personal experience puts me in a privileged position to foster diversity and inclusion in `r field`. While the job of the `r person` is to act as a conduit between theoretical and applied work, I recognize that the traditional higher education setting does not allow individuals from underrepresented backgrounds to participate in that information exchange on equal footing. I believe this is not due to inequality in previous training, but rather because the conventional spaces for cutting-edge knowledge generation and communication are not sufficiently welcoming for individuals that do not fit into conventional disciplinary molds.
+My personal experience puts me in a privileged position to foster inclusion in `r field`. While the job of the `r person` is to act as a conduit between theoretical and applied work, I recognize that the traditional higher education setting does not allow individuals from underrepresented backgrounds to participate in that information exchange on equal footing. I believe this is not due to inequality in previous training, but rather because the conventional spaces for cutting-edge knowledge generation and communication are not sufficiently welcoming for individuals that do not fit into conventional disciplinary molds.
 
 My initial efforts focused on facilitating out-of-classroom learning opportunities, which I consider essential to break initial entry barriers. At Illinois, I started a methods cheatsheets project in 2018. In this project, volunteer graduate students write short introductions to the theory, implementation, and current debates surrounding a technique of their expertise. These resources are shared in a repository available for current and future generations.
 
-At Northwestern, I facilitate collaborative lab-style spaces for open-ended group work. As part of both my introductory graduate methods course and the coding workshop I organize, participants can bring their own methods-related work to the lab session and benefit from group learning in a low-stakes setting.
+At Northwestern, I facilitate collaborative lab-style spaces for open-ended group work. As part of both my introductory graduate methods course and the statistical computation workshop I organize, participants can bring their own methods-related work to the lab session and benefit from group learning in a low-stakes setting.
 
 I also incorporate these principles into my teaching. My course on data analysis for public opinion and policy at McMaster gave students enough flexibility to connect statistical theory to their own interests and career goals. For example, in response papers they could choose what parts of a research design they would change if they were in charge of replicating a study on a topic of their choosing.
 
@@ -46,4 +46,7 @@ I also incorporate these principles into my teaching. My course on data analysis
 <!-- In the future, I aim to form a research group that translates these ideas into a sustainable and inclusive research program. This group would foster dialogue across backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle. -->
 
 <!-- More for teaching -->
-In the future, I aim to create or participate in a lab that translates these ideas into a sustainable and inclusive activities led by its student-members, including research and consulting work. This group would foster dialogue across backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle.
+<!-- In the future, I aim to create or participate in a lab that translates these ideas into a sustainable and inclusive activities led by its student-members, including research and consulting work. This group would foster dialogue across backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle. -->
+
+<!-- More for program direction -->
+In the future, I aim to create and foster the development of laboratories and research groups that foster dialogue and collaborative work across disciplines, backgrounds, learning styles, and career stages, while also providing a safety net to provide early support to those who may otherwise struggle. 

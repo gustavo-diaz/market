@@ -4,18 +4,18 @@ name: |
   Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Tenure Track Faculty Search, Statistics and Data Science"
+subject: "Open Rank Search, Computational Social Science"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for faculty positions in Statistics and Data Science"
+jobtitle = "call for an open rank faculty position in Computational Social Science"
 research = "applied statistics for the social sciences"
-place = "the College of the Holy Cross"
-discipline = "the social sciences"
+place = "the University of Rhode Island and I see contributing to a brand new interdisciplinary program in computational social science as the ideal next logical step in my career"
+discipline = "social science"
 subfield = "comparative politics and political behavior"
-courses = "on probability and statistics, statistical inferences, design-based causal inference, machine learning, statistical programming, and data visualization"
+courses = "on computational social science, probability and statistics, statistical inferences, machine learning, statistical programming, and data visualization"
 source = "website"
 ```
 
@@ -30,14 +30,14 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. My work is published or forthcoming in leading social science outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
 <!-- Survey experiments and block rand -->
-My research agenda focuses on using statistics to improve research design before data collection. My current focus is on statistical precision. This is overlooked in the statistics, econometrics, and social science methodology literature in favor of identifying unbiased estimators. Implicitly, this literature assumes that one can improve statistical precision by just increasing sample size. This is not feasible in many `r discipline` applications due to practical or ethical considerations.
+My research agenda focuses on using tools from statistics and computational social science to improve research design before data collection. My current focus is on statistical precision. This is overlooked in the statistics, econometrics, and social science methodology literature in favor of identifying unbiased estimators. Implicitly, this literature assumes that one can improve statistical precision by just increasing sample size. This is not feasible in many `r discipline` applications due to practical or ethical considerations.
 
-Focusing on survey and experimental data, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
+Focusing on surveys and experimental data, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
 
 For example, in "Balancing Precision and Retention in Experimental Design", published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
 
@@ -55,15 +55,18 @@ As another example, in an article recently published in the *British Journal of 
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making statistics accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge statistical programming practices. This year, I am adding a graduate seminar on Machine Learning to my portfolio.
+My teaching focuses on making statistics accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and computational social science are used in academia, government, and industry to inform decision-making. This year, I am adding a graduate seminar on Machine Learning to my portfolio.
 
-<!-- Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, and Politics of Developing Democracies from an evidence-informed policy perspective. Both courses emphasized the use of applied statistics to generate credible evidence. Beyond the classroom, I am currently mentoring a rising sophomore as part of the Farrell Fellowship program at Northwestern, with the objective of incorporating them as a co-author on projects on experimental research design. -->
+<!-- Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, and Politics of Developing Democracies from an evidence-informed policy perspective. Both courses emphasized the use of applied statistics to generate credible evidence. Beyond the classroom, I collaborate with one undergraduate student on projects on research methods as part of the Farrell fellowship mentoring program, and advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
+
+<!-- Putting service more at the forefront -->
+Beyond the classroom, I also engage in service activities congenial with program direction. I lead the Math Camp program for incoming political science and sociology PhD students and routinely meet those writing dissertations with a strong computational social science element. I run the Statistical Computing workshop that brings internal and external speakers to introduce cutting-edge developments in research methods and statistical programming. I collaborate with one (soon becoming two) undergraduate student on methods-related projects as part of the Farrell fellowship mentoring program, and advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences.
 
 <!-- For jobs that require undergrad mentoring -->
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
-I believe my experience teaching statistics courses in a PhD program is comparable to that required to offer courses at all levels in an undergraduate program in statistics and data science. Beyond the classroom, I routinely work with and advise undergraduate students on topics related to applied statistics. Currently, I serve as a mentor for the Farrell Fellowship program at Northwestern, which paired me with a rising sophomore student to collaborate on various projects on experimental design. I also advise two senior theses. One in Political Science with emphasis on experimental data, and another in the program in Mathematical Methods for the Social Sciences.
+<!-- I believe my experience teaching statistics courses in a PhD program is comparable to that required to offer courses at all levels in an undergraduate program in statistics and data science. Beyond the classroom, I routinely work with and advise undergraduate students on topics related to applied statistics. Currently, I serve as a mentor for the Farrell Fellowship program at Northwestern, which paired me with a rising sophomore student to collaborate on various projects on experimental design. I also advise two senior theses. One in Political Science with emphasis on experimental data, and another in the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- Teaching plans -->
 <!-- Remember to switch from teaching portfolio/website accordingly -->
