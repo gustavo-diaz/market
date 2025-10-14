@@ -28,7 +28,7 @@ Gustavo Diaz
 ```{r setup, include=F}
 field = "quantitative methods"
 students = "political scientists"
-methods_offer = "research design and quantitative methods along the required sequence at all levels. I am also eager to develop new courses on causal inference, experiments, computational social science, comparative politics, challenges to democracy, and politics of the Global South/Latin America"
+methods_offer = "on statistics, research design, experiments, machine learning, and computational social science"
 source = "website"
 ```
 
@@ -50,11 +50,11 @@ Flexibility and accountability also help in preventing instances of discriminati
 
 ### Teaching experience
 
-At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge statistical programming practices. This year, I am adding a graduate seminar on Machine Learning to my portfolio. Beyond the classroom, I am currently mentoring a rising sophomore as part of the Farrell Fellowship program at Northwestern, with the objective of incorporating them as a co-author on projects on experimental research design.
+At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge methods. This year, I am adding a graduate seminar on Machine Learning to my portfolio. Beyond the classroom, I collaborate with a rising sophomore on projects on experimental design as part of the Farrell Fellowship program and direct senior theses in political science and the program for Mathematical Methods in the Social Sciences.
 
-<!-- Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on using quantitative evidence to make credible policy recommendations. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry. -->
+Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on using quantitative evidence to make credible policy recommendations. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry. I also taught a course on the challenges in developing democracies, with attention to the use of experimentation to design interventions that become policy solutions.
 
-Before joining Northwestern, I taught introduction to comparative politics and an undergrad senior course on the challenges that developing democracies face from the perspective of evidence-based policy making. The latter course overviews the main challenges in the path to democratic consolidation around the world, proposed solutions to these challenges, and how governments, researchers, and civil society organizations use data to evaluate these solutions. 
+<!-- Before joining Northwestern, I taught introduction to comparative politics and an undergrad senior course on the challenges that developing democracies face from the perspective of evidence-based policy making. The latter course overviews the main challenges in the path to democratic consolidation around the world, proposed solutions to these challenges, and how governments, researchers, and civil society organizations use data to evaluate these solutions.  -->
 
 <!-- The previous version focused primarily design-based causal inference, but future versions will also feature data science and machine learning. -->
 
