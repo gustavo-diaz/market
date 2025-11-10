@@ -159,7 +159,7 @@ Machine Learning (Graduate) `#h(1fr)`{=typst} Winter 2026
 
 # Grants and Awards
 
-2026\. European Research Council Starting Grant  
+2026\. European Research Council Starting Grant  (co-investigator, ~$1.5 million USD)
 
 2025-2026\. Farrell Fellowship Program. Northwestern University
 
@@ -237,9 +237,9 @@ University of Illinois
 
 **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
 
-{{< pagebreak >}}
+<!-- {{< pagebreak >}} -->
 
-# References
+<!-- # References -->
 
 <!-- ```{=typst} -->
 <!-- #set align(center) -->
@@ -256,19 +256,19 @@ University of Illinois
 <!-- ) -->
 <!-- ``` -->
 
-```{=typst}
-#set align(center)
+<!-- ```{=typst} -->
+<!-- #set align(center) -->
 
-#table(
-columns: (33%, 33%, 33%),
-stroke: none,
-align: left,
-[*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*],
-[Professor], [Professor], [Professor],
-[University of Illinois], [McMaster University], [University of Illinois],
-[#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")],
-[#link("mwinters@illinois.edu")]
-)
-```
+<!-- #table( -->
+<!-- columns: (33%, 33%, 33%), -->
+<!-- stroke: none, -->
+<!-- align: left, -->
+<!-- [*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*], -->
+<!-- [Professor], [Professor], [Professor], -->
+<!-- [University of Illinois], [McMaster University], [University of Illinois], -->
+<!-- [#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")], -->
+<!-- [#link("mwinters@illinois.edu")] -->
+<!-- ) -->
+<!-- ``` -->
 
 

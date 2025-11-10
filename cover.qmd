@@ -4,18 +4,18 @@ name: |
   Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Search, Quantitative Social Science"
+subject: "Assistant Professor Search, Statistics"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor in Quantitative Social Science"
+jobtitle = "call for an Assistant Professor in Statistics"
 research = "applied statistics for the social sciences"
-place = "Dartmouth"
+place = "UT Austin"
 discipline = "social science"
 subfield = "international politics and political behavior"
-courses = "in statistics, research design, experiments, causal inference, machine learning, data visualization, and computational social science"
+courses = "on statistics, research design, experiments, causal inference, machine learning, and evidence-informed decision-making"
 source = "website"
 ```
 
@@ -30,12 +30,12 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on `r research`. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and data science and conduct research on `r research`. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
 <!-- Survey experiments and block rand -->
-My research agenda focuses on using tools from statistics and computational social science to improve research design before data collection. My current focus is on statistical precision. This is overlooked in the statistics, econometrics, and social science methodology literature in favor of identifying unbiased estimators. Implicitly, this literature assumes that one can improve statistical precision by just increasing sample size. This is not feasible in many `r discipline` applications due to practical or ethical considerations.
+My research agenda focuses on using tools from design-based causal inference and data science to improve research design before data collection. My current focus is on statistical precision. This is overlooked in the statistics, econometrics, and social science methodology literature in favor of identifying unbiased estimators. Implicitly, this literature assumes that one can improve statistical precision by just increasing sample size. This is not feasible in many `r discipline` applications due to practical or ethical considerations.
 
 Focusing on surveys and experimental data, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
 

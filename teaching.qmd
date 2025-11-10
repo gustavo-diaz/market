@@ -28,7 +28,7 @@ Gustavo Diaz
 ```{r setup, include=F}
 field = "applied statistics"
 students = "the social sciences"
-methods_offer = "on statistics, data science, machine learning, design-based causal inference, data visualization, and applications in computational social science"
+methods_offer = "on statistics, research design, experiments, causal inference, machine learning, and evidence-informed decision-making"
 source = "website"
 ```
 
