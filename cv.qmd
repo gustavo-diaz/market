@@ -103,7 +103,7 @@ MA in Political Science",
 
 # Selected Working Papers
 
-[Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Under review*
+[Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Revise and resubmit*
 
 ["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
