@@ -1,0 +1,51 @@
+---
+format: 
+  typst:
+    margin:
+      x: 1in
+      y: 1in
+fontsize: 12pt
+---
+
+```{=typst} 
+#show link: set text(blue)
+```
+
+## Academic Proposal
+
+Gustavo Diaz  
+*Department of Political Science*  
+*Northwestern University*  
+<gustavo.diaz@northwestern.edu>  
+
+```{=typst} 
+#line(length: 100%)
+```
+
+
+
+
+
+## Research plans
+
+My research focuses on how  informational imbalances present barriers to accountability, governance, and representation in. These are areas where governments, scholars, and civil society organizations have devoted considerable resources to the implementation of pro-democracy interventions, ranging from gender quotas to anti-corruption investigations. However, research in political science, policy, and economics suggests these initiatives have a mixed record in terms of effectiveness. I aim to understand where, how, and why they work. 
+
+While the bulk of my work has centered on accountability and representation, I am currently expanding to questions about barriers to democratic governance. One such example is organized crime, where most of the conventional wisdom stems from studying countries where the scale of criminal governance is most pronounced (e.g. Brazil, Mexico). In a working paper with with Inés Fynn (Universidad Católica del Uruguay), Verónica Pérez (Universidad de la República), and Lucía Tiscornia (University College Dublin), we document the prevalence of criminal governance strategies in Uruguay. Similar to Chile, criminal organizations in the country are small in size but deeply rooted in urban arease. Here, estimating the extent of exposure to criminal governance is challenging due to the combination of sensitivity bias and our inability to oversample on key subgroups of interest, which means any attempt to maximize statistical precision needs to come from our research design choices. This is the basis of a recently awarded *European Research Council Starting Grant* (~USD $1.5 million)  seeking to understand criminal governance in least-expected contexts from a comparative perspective, expanding to include cases from Argentina, Chile, and Costa Rica.
+
+The interest in hard-to-observe phenomena also motivates my program on improving research design in the social sciences and public policy. As part of the Farrell Fellowship program at Northwestern, I currently work with two students on an extensive review of research on best practices in the design and analysis of experiments in the aforementioned fields.
+
+By the end of this academic year, we will have mapped the main ways in which social scientists and policy researchers assess among competing experimental designs to test theories or evaluate programs, and will be ready start developing tools to assist scholars and practitioners in choosing research designs before data collection in a principled manner.
+
+{{< pagebreak >}}
+
+## Teaching plans
+
+My current role requires me to deliver courses exclusively on research methods. In this context, I face a polarized audience. Increasingly, students start their program with considerable experience in mathematical thinking, statistics, and statistical programming. Still, many start with an appreciation for data analysis, but come from educational and career paths designed to explicitly avoid math.
+
+My approach to keep both audiences engaged within one term is to unify math, statistics, and coding as the task of acquiring a new language. A single course will not teach students everything they need to know to become fluent, but it can give enough tools to facilitate future learning in a direction that is beneficial to students regardless of their background and career goals. For some, this may mean engaging directly with data and code or even creating new methodologies. For others, the goal may be just to communicate productively with scholarship drawing on quantitative findings or data analysts at the workplace.
+
+To accommodate this diversity, I design courses with two principles in mind. First, students need flexibility to engage with the course on their own terms and focus on the content they find useful. For example, the flipped classroom lab sessions in my course on data analysis for public opinion and policy ask students to evaluate a research design, suggest alternatives or modifications, and to evaluate its statistical properties through coding and writing. Some students may propose increasing the sample size, sampling from a different underlying population, or changing the assignment of treatment conditions. This allows students to pursue the tasks that suit their interests and gives the instructor freedom to reward creativity and effort over correctness. 
+
+The second principle is accountability, which is necessary to keep everyone on task while allowing flexibility. This means agreeing on an overarching theme that every single course activity must relate to. For example, the overarching theme in my graduate probability and statistics course is how assumptions shape the inferences that we can credibly draw from data. I emphasize how we need to make unrealistic assumptions, even if minimal, to enable statistical inference, and that we need to hold ourselves accountable to those assumptions when evaluating the appropriateness of a statistical procedure.
+
+While I am happy to continue my current focus on teaching research methods in my next position, I am also eager to develop new substantive course anchored on the generation of credible empirical evidence. A current effort in this direction is a recent advanced undergraduate elective I offered on evidence-informed decision-making. This course discussed how data science and experimentation are used to inform decisions in policy, medicine, and the private sector. In future iterations, I would like to center the course around relevant policy issues, such as corruption, representation, crime and public safety.
