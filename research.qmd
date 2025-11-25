@@ -25,8 +25,8 @@ Gustavo Diaz
 
 ```{r setup, include=F}
 discipline = "Social scientists"
-fields = "design-based causal inference and data science"
-applications = "to questions in international politics and political behavior"
+fields = "design-based causal inference and computational social science"
+applications = "to questions in the political and social sciences"
 region = "Global South"
 ```
 
@@ -45,7 +45,7 @@ The last decade has seen considerable improvement in research transparency and r
 
 A recurrent goal in statistics, econometrics, and social science methodology is to minimize bias, or being close to the hypothetical truth on average. When planning an original data collection effort, researchers can often choose among many alternative research designs, all with previously identified unbiased estimators. My agenda focuses on optimizing statistical precision, understood as producing consistent results after multiple realizations of the same data generation process. While this is a crucial factor when choosing a research design, the literature implicitly assumes that one can simply improve precision by increasing sample size, without providing much guidance to assess among alternative designs. Moreover, simply increasing sample size is not feasible in most applications due to practical or ethical considerations. Therefore, even when one does not face a choice between alternative designs, statistical precision is still paramount.
 
-Focusing on the design and analysis of survey and field experiments, my agenda advances the argument that the choice between alternative research designs for which unbiased estimators are already documented is rarely free. A design promising improvements in statistical precision without sacrificing unbiasedness often brings unforeseen costs in other dimensions.
+Focusing on the design and analysis of public opinion surveys and experiments, my agenda advances the argument that the choice between alternative research designs for which unbiased estimators are already documented is rarely free. A design promising improvements in statistical precision without sacrificing unbiasedness often brings unforeseen costs in other dimensions.
 
 Two projects exemplify how I develop standards to navigate research design choices with unforeseen challenges. First, in an article recently published in *Political Analysis* with Erin Rossiter (Notre Dame), we discuss the circumstances under which adopting research design features aimed at improving precision can instead hurt it through implicit or explicit sample loss. For example, block randomization can improve precision, but if this requires contacting participants multiple times to collect pre-treatment blocking covariates, then it creates space for attrition that would not exist otherwise, which may offset the precision gains from blocking. We posit this is the main reason why researchers deviate from the standard experimental design infrequently. Through three replications and six reanalyses of previously published experiments in leading political science journals, we show how precision gains from alternative designs can withstand significant degrees of sample loss. From this exercise, we also identify guidelines to navigate the tradeoff between precision and sample retention in experiments.
 
