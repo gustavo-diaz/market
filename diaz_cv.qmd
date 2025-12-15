@@ -136,7 +136,7 @@ MA in Political Science",
 
 [Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2026, 2025
 
-Machine Learning (Graduate) `#h(1fr)`{=typst} Winter 2026
+[Machine Learning (Graduate)](https://gustavodiaz.org/files/teaching/machine_learning.pdf) `#h(1fr)`{=typst} Winter 2026
 
 [Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2025, 2024
 
@@ -182,6 +182,8 @@ University of Illinois
 <!-- 2020.\ University of Notre Dame, Graduate Student Exchange -->
 
 # Selected Talks
+2025.\ ["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://talks.gustavodiaz.org/mapor25) Midwest Association for Public Opinion Research
+
 2025.\ ["Balancing Precision and Retention in Experimental Design."](https://talks.gustavodiaz.org/texmeth25) Texas Methods Meeting
 
 2024.\ ["Combining List Experiments and the Network Scale-Up Method."](https://talks.gustavodiaz.org/ispp24) Annual Meeting of the International Society of Political Psychology
@@ -229,16 +231,16 @@ University of Illinois
 # Additional Training and Skills 
 <!-- Bunching together to keep in a 2 page document -->
 
-2023\. Grant writing workshop for junior faculty. McMaster University
+<!-- 2023\. Grant writing workshop for junior faculty. McMaster University -->
 
 2019\. Empirical Implications of Theoretical Models Summer Institute. Emory University
 
 2014\. Summer School on Mixed Methods. Pontificia Universidad Católica de Chile
 
-**Languages:** Spanish (native), French (advanced reading and writing, conversational speaking), Portuguese (advanced reading and writing) \
-**Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
+<!-- **Languages:** Spanish (native), French (advanced reading and writing, conversational speaking), Portuguese (advanced reading and writing) \ -->
+<!-- **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto -->
 
-<!-- **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto -->
+**Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
 
 <!-- {{< pagebreak >}} -->
 

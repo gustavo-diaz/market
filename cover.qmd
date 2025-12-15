@@ -15,7 +15,7 @@ research = "improving research design in surveys and experiments"
 place = "UC Chile"
 discipline = "political science"
 subfield = "comparative politics and political behavior"
-courses = "on research design and quantitative methods, both required and elective, as well as substantive courses on evidence-informed policy and accountability, governance, and representation"
+courses = "in the required research design and data analysis sequence across levels, electives on survey research, experiments, causal inference, and machine learning, and summer school modules on sensitive questions in surveys or the design of survey experiments"
 source = "website"
 ```
 
@@ -55,12 +55,14 @@ As another example, in an article published in the *British Journal of Political
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making quantitative methods accessible to diverse audiences through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how data and experimentation are used in government, industry, and civil society to inform decision-making. Next quarter, I am adding a graduate seminar on Machine Learning to my portfolio.
+My teaching focuses on making quantitative methods accessible to diverse audiences. I accomplish this through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence (equivalent to *Análisis Cuantitativo I*), the required undergrad-level Introduction to Empirical Methods (equivalent to *Epistemología y Diseño de Investigación en Ciencia Política*), and an undergraduate research seminar (equivalent to an *Optativo de Profundización*) on how data and experimentation are used in government, industry, and civil society to inform decision-making. Before Joining Northwestern, I taught Data Analysis for Public Opinion and Policy at McMaster.
 
 <!-- Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, and Politics of Developing Democracies from an evidence-informed policy perspective. Both courses emphasized using experiments to generate credible evidence. Beyond the classroom, I collaborate with one undergraduate student on projects on experimental design as part of the Farrell fellowship mentoring program, and advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- Putting service more at the forefront -->
-Beyond the classroom, I serve as an undergraduate advisor, lead the Math Camp program for incoming political science and sociology PhD students, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science. I collaborate with two undergraduate coauthors as part of the Farrell fellowship mentoring program on experimental design, and I also advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences.
+Beyond the classroom, I serve as an undergraduate advisor, lead the Math Camp program for incoming political science and sociology PhD students, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science. 
+
+<!-- I collaborate with two undergraduate coauthors as part of the Farrell fellowship mentoring program on experimental design, and I also advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- For jobs that require undergrad mentoring -->
 
@@ -71,12 +73,14 @@ Beyond the classroom, I serve as an undergraduate advisor, lead the Math Camp pr
 <!-- Teaching plans -->
 <!-- Remember to switch from teaching portfolio/website accordingly -->
 <!-- Also tweak depending on job -->
-I am prepared to teach courses `r courses`. You can find copies of current and future syllabi in my `r source`.
+I am prepared to teach courses `r courses`. 
+
+<!-- You can find copies of current and future syllabi in my `r source`. -->
 
 
 
 <!-- CLOSING -->
-I believe my expertise makes me an excellent fit at `r place`. If you have any questions, you can contact me via email or phone.
+I believe my expertise makes me an excellent fit at `r place`. Moreover, I would cherish the opportunity to return to my alma mater in this role. If you have any questions, you can contact me via email or phone.
 
 
 Sincerely,
