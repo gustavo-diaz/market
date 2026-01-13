@@ -1,20 +1,21 @@
 ---
 name: |
   Gustavo Diaz \
+  Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, Scott Hall ste 224, 601 University Place, Evanston IL 60208"
-subject: "Assistant Professor Search, Escuela de Gobierno"
+subject: "Assistant Professor Search, Comparative Politics"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for Assistant Professors"
-research = "the challenges to accountability, representation, and governance in the Global South from an evidence-informed policy perspective"
-place = "the PUC"
+jobtitle = "call for an Assistant Professor in Comparative Politics"
+research = "the challenges to accountability, representation, and governance in the Global South"
+place = "UNC-Charlotte"
 discipline = "political science"
-subfield = "evidence-informed public policy and quantitative methods"
-courses = "research design, data analysis, evidence-informed policy, democracy and its challenges, and crime and public safety"
+subfield = "comparative politics and quantitative methods"
+courses = "research design, quantitative methods, accountability and representation, and the politics of developing democracies"
 source = "website"
 ```
 
@@ -34,11 +35,13 @@ I write to express my interest in your `r jobtitle`. I am an Assistant Professor
 <!-- RESEARCH -->
 My research agenda focuses on `r research`. These are areas where scholars, governments, and civil society organizations have devoted considerable resources to the implementation of pro-democracy interventions, ranging from gender quotas to anti-corruption investigations. However, the effectiveness of these interventions is stifled by unintended consequences emerging from informational imbalances across strategic actors.
 
-For example, my latest research in this area delves into the unintended *gendered* consequences arising from increased attention to politicians' performance in office. One would expect increased access to information to enhance accountability, but equivalent performance can be interpreted differently depending on politicians' gender. In an article published at the *British Journal of Political Science*, my coauthors and I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
+For example, my latest research in this area delves into the unintended *gendered* consequences arising from increased attention to politicians' performance in office. One would expect increased access to information to enhance accountability, but equivalent performance can be interpreted differently depending on politicians' gender. In an article published at the *British Journal of Political Science*, my coauthors and I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. 
+
+<!-- This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account. -->
 
 As another example, in a collaborative piece published in *World Development*, I discuss how the COVID-19 pandemic, through increased discontent with the performance of male-led executives and by priming a health issue commonly associated with women, lead to an increased demand for female political representation. However, as I show in a separate book chapter in *Norms, Gender and Corruption: Understanding the Nexus*, this increased demand for representation, even if met by an increased supply of women seeking elected office, does not immediately translate into descriptive representation due to a combination of social and institutional barriers that prevent women challengers from competing in equal footing.
 
-This program is evolving in two directions. First, the attention to the study of unintended consequences has led to produce scholarship on improving research design in a way that facilitates the detection of hard-to-observe social and political phenomena. For example, in a piece published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
+This program is evolving in two directions. First, the attention to the study of unintended consequences has led to produce scholarship on improving research design in a way that facilitates the detection of hard-to-observe social and political phenomena. For example, in a piece published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
 
 As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more efficient technique.
 
@@ -47,9 +50,11 @@ an *European Research Council Starting Grant*, my team seek to understand crimin
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-At Northwestern, I primarily teach courses on quantitative methods. I lead the first course in the PhD methods sequence, focusing on probability and statistical inference, the required undergraduate level introduction to empirical political science, and a seminar on evidence-informed decision-making. I also lead the math camp for incoming political science and sociology students and run a year-long statistical computing workshop that introduces cutting-edge statistical programming practices. Later this year, I will also offer a PhD seminar on machine learning.
+At Northwestern, I primarily teach courses on quantitative methods. I lead the first course in the PhD methods sequence, focusing on probability and statistical inference, the required undergraduate level introduction to empirical political science, an undergraduate research seminar on evidence-informed decision-making, and a graduate elective on machine learning. I also lead the math camp for incoming political science and sociology students and run a year-long statistical computing workshop that introduces cutting-edge statistical programming practices. 
 
-Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, Introduction to Comparative Politics and, and Politics of Developing Democracies. Beyond the classroom, I collaborate with a rising sophomore, as part of the Farrell Fellowship program at Northwestern, on various projects in my agenda. I also advise theses in Political Science and the program in Mathematical Methods for the Social Sciences.
+Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, Introduction to Comparative Politics and, and Politics of Developing Democracies. 
+
+<!-- Beyond the classroom, I collaborate with two undergraduates, as part of the Farrell Fellowship program at Northwestern, on various projects in my agenda. I also advise theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
@@ -62,8 +67,7 @@ I am prepared to teach courses on `r courses`. You can find copies of current an
 
 
 <!-- CLOSING -->
-I believe my expertise makes me an excellent fit at `r place`. Furthermore, it would be an honor to contribute to my alma mater's excellence mission. If you have any questions, you can contact me via email or phone.
-
+I believe my expertise makes me an excellent fit at `r place`. If you have any questions, you can contact me via email.
 
 Sincerely,
 
