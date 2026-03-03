@@ -73,19 +73,22 @@ MA in Political Science",
 ```
 
 <!-- For vitae supplement -->
-<!-- # Summary -->
-<!-- **Research** -->
+# Summary
+**Research**
 
-<!-- - Two peer-reviewed publications accepted in 2024 -->
-<!-- - One book chapter published in 2024 -->
-<!-- - Two other papers submitted for review in 2024 (one rejected in January 2025 and promptly resubmitted) -->
+- Two publications in top peer-reviewed journals in 2025
+- One article as *revise and resubmit* in a leading peer-review journal in statistics and survey methodology
+- Awarded ERC starting grant [write more about money amounts]
 
-<!-- **Teaching** -->
+**Teaching**
 
-<!-- - Four new course preparations in total -->
-<!-- - Three delivered in Fall 2024 -->
-<!-- - One prepared for delivery in Spring 2025 -->
+- Three courses revamped
+- Three delivered in Fall 2025
+- One new PhD course prepared for delivery in Winter 2026
 
+**Mentoring/service**
+- Statistical computing workshop
+- Kiki, Matilde, Inaya, Artur, Kate Laudsomething
 
 
 # Publications  
