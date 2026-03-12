@@ -73,28 +73,28 @@ MA in Political Science",
 ```
 
 <!-- For vitae supplement -->
-# Summary
-**Research**
+<!-- # Summary -->
+<!-- **Research** -->
 
-- Two publications in top peer-reviewed journals in 2025
-- One article as *revise and resubmit* in a leading peer-review journal in statistics and survey methodology
-- Awarded European Research Council Starting Grant as co-investigator (~\$1.5 million USD, of which roughly \$30 thousand are assigned to Northwestern)
+<!-- - Two publications in top peer-reviewed journals in 2025 -->
+<!-- - One article as *revise and resubmit* in a leading peer-review journal in statistics and survey methodology -->
+<!-- - Awarded European Research Council Starting Grant as co-investigator (~\$1.5 million USD, of which roughly \$30 thousand are assigned to Northwestern) -->
 
-**Teaching**
+<!-- **Teaching** -->
 
-- Redesigned and revamped materials for three previously taught courses
-- Delivered three new course preparations, one in each quarter of the 2025 calendar year
-- Designed and prepared a new PhD level course for delivery in Winter 2026
+<!-- - Redesigned and revamped materials for three previously taught courses -->
+<!-- - Delivered three new course preparations, one in each quarter of the 2025 calendar year -->
+<!-- - Designed and prepared a new PhD level course for delivery in Winter 2026 -->
 
-**Mentoring/service**
+<!-- **Mentoring/service** -->
 
-- Organized a year-long workshop brought seven internal and external speakers to Northwestern to discuss cutting edge developments in statistical computing
-<!-- Kiki, Matilde, Inaya, Artur, Kate Laudsomething -->
-- Advised two students as part of their senior thesis, one in Political Science and another in History/Mathematical Methods in the Social Sciences
-- Mentored one graduate student in preparation for a prestigious Summer teaching opportunity and wrote a recommendation letter
-- Started working with an undergraduate Political Science/Economics major in preparation to her application for deferred admission to the Kellogg MBA program
-- Served as a Summer fellowship reference for a Political Science senior student
-- Assisted numerous undergraduate students as informal advisor for research projects
+<!-- - Organized a year-long workshop brought seven internal and external speakers to Northwestern to discuss cutting edge developments in statistical computing -->
+<!-- <!-- Kiki, Matilde, Inaya, Artur, Kate Laudsomething --> 
+<!-- - Advised two students as part of their senior thesis, one in Political Science and another in History/Mathematical Methods in the Social Sciences -->
+<!-- - Mentored one graduate student in preparation for a prestigious Summer teaching opportunity and wrote a recommendation letter -->
+<!-- - Started working with an undergraduate Political Science/Economics major in preparation to her application for deferred admission to the Kellogg MBA program -->
+<!-- - Served as a Summer fellowship reference for a Political Science senior student -->
+<!-- - Assisted numerous undergraduate students as informal advisor for research projects -->
 
 # Publications  
 
