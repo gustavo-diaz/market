@@ -25,8 +25,8 @@ Gustavo Diaz
 
 ```{r setup, include=F}
 discipline = "Social scientists"
-fields = "design-based causal inference and data science"
-applications = "to questions in international politics and political behavior"
+fields = "design-based causal inference and computational science"
+applications = "to questions in comparative politics and political behavior"
 region = "Global South"
 
 ```
@@ -59,9 +59,9 @@ This agenda is currently extending toward improving precision by combining diffe
 ## Teaching philosophy and experience
 
 ```{r setup2, include=F}
-field = "applied statistics"
+field = "statistics and computational methods"
 students = "the social sciences"
-methods_offer = "on statistics, research design, experiments, causal inference, machine learning, and evidence-informed decision-making"
+methods_offer = "on research design, statistics, computational social science, machine learning, causal inference, experimentation, and data science for decision-making"
 source = "website"
 ```
 
@@ -80,7 +80,7 @@ Similarly, the overarching theme in my graduate probability and statistics cours
 
 Flexibility and accountability also help in preventing instances of discrimination in the learning process. Through flexibility, students are invited to add value to the course by bringing their own perspective, knowledge, or experiences. In turn, accountability sets the scope for the type of contributions of interventions that are admissible. From this perspective, a racist remark is unacceptable not because someone disagrees with it, but because it is beyond the scope of the vocabulary we aim to build.
 
-At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge methods. This year, I am adding a graduate seminar on Machine Learning to my portfolio. Beyond the classroom, I collaborate with a rising sophomore on projects on experimental design as part of the Farrell Fellowship program and direct senior theses in political science and the program for Mathematical Methods in the Social Sciences.
+At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, a PhD elective on Machine Learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge methods. This year, I am adding a graduate seminar on Machine Learning to my portfolio. Beyond the classroom, I collaborate with a rising sophomore on projects on experimental design as part of the Farrell Fellowship program and direct senior theses in political science and the program for Mathematical Methods in the Social Sciences.
 
 Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on using quantitative evidence to make credible policy recommendations. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry. 
 
