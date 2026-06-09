@@ -79,7 +79,7 @@ MA in Political Science",
 )
 ```
 
-1. **Diaz, Gustavo** and Erin Rossiter. 2025. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis*
+1. **Diaz, Gustavo** and Erin Rossiter. 2026. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis* 34 (1): 139-148
 
 1. **Diaz, Gustavo**, Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters. 2025. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54  
 
@@ -101,13 +101,19 @@ MA in Political Science",
 )
 ```
 
-# Selected Working Papers
+# Working Papers
+
+["Criminal Governance in Unexpected Contexts: the Case of Montevideo, Uruguay"](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
+*Revise and resubmit*
 
 [Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Revise and resubmit*
 
-["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+[Difference-in-Slopes: Causal Effects on Descriptive Associations](https://gustavodiaz.org/files/research/diff_in_slopes.pdf) (with Alexander Coppock)  
+*Under review*
 
-["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://gustavodiaz.org/files/research/list_placebo.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+
+["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
 # Teaching  
 
@@ -135,7 +141,11 @@ Machine Learning (Graduate) `#h(1fr)`{=typst} Winter 2026
 
 [Comparative Politics](https://gustavodiaz.org/teaching/cp_intro/syllabus/polc2300_syllabus.pdf)  `#h(1fr)`{=typst} Fall 2021
 
-# Awards
+# Grants and Awards
+
+2026\. European Research Council Starting Grant  (co-investigator, ~$1.5 million USD)
+
+2025-2026\. Farrell Fellowship Program. Northwestern University
 
 2019-2020\. Werner Baer Dissertation Writing Fellowship. Lemann Center for Brazilian Studies,
 University of Illinois
@@ -146,6 +156,12 @@ University of Illinois
 University of Illinois
 
 # Invited Talks and Conference Presentations
+
+2026: University of Chicago \
+`#h(1cm)`{=typst} Midwest Political Science Association. Chicago, IL \
+`#h(1cm)`{=typst} Annual Meeting of the Society for Political Methodology. Michigan State University \
+`#h(1cm)`{=typst} American Political Science Association. Boston, MA
+
 
 2025: Texas Methods Meeting. University of Houston \
 `#h(1cm)`{=typst} Computation and Data Exchange. Northwestern University \
@@ -186,6 +202,31 @@ University of Illinois
 `#h(1cm)`{=typst} Political Methodology Colloquium. University of Minnesota \
 `#h(1cm)`{=typst} St. Louis Area Methods Meeting. Southern Illinois University 
 
+# Mentorship
+
+**Senior Theses**
+
+- Fiona Bolzan (Northwestern, Political Science)
+- Elena Mazariegos (Northwestern, International Studies)
+- Keeley Sikora (Northwestern, Political Science)
+- Inaya Hussain (Northwestern, Mathematical Methods in the Social Sciences)
+
+# Service
+
+<!-- Sorted alphabetically  -->
+**Reviewer:** American Political Science Review, British Journal of Political Science, Comparative Political Studies, FONDECYT Chile (Political Science), Journal of Elections, Public Opinion and Parties, Public Opinion Quarterly, PS: Political Science
+
+<!-- Sorted chronologically forward -->
+**Discussant:** MPSA 2021, MPSA 2022, SPSA 2022, APSA 2024, MPSA 2024, MPSA 2025, MPSA 2026
+
+**Department**
+
+- Member, Comparative politics and data science search committee, University of Illinois Urbana-Champaign (2019)
+- Coordinator, Statistical Computing Workshop, Northwestern University (2024-)
+
+**Discipline**
+
+- Chair, Political Methodology section, Midwest Political Science Association, MPSA (2024)
 
 # Additional Training  
 
@@ -195,8 +236,8 @@ University of Illinois
 
 2014\. Summer School on Mixed Methods. Pontificia Universidad Católica de Chile
 
-# Skills  
+<!-- # Skills   -->
 
-**Languages:** Spanish, French, Portuguese
+<!-- **Languages:** Spanish, French, Portuguese -->
 
-**Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
+<!-- **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto -->

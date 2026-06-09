@@ -104,7 +104,7 @@ MA in Political Science",
 )
 ```
 
-1. **Diaz, Gustavo** and Erin Rossiter. 2025. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis*
+1. **Diaz, Gustavo** and Erin Rossiter. 2026. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis* 34 (1): 139-148
 
 1. **Diaz, Gustavo**, Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters. 2025. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54  
 
@@ -128,15 +128,21 @@ MA in Political Science",
 
 # Under Review  
 
+["Criminal Governance in Unexpected Contexts: the Case of Montevideo, Uruguay"](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
+*Revise and resubmit at Latin American Politics and Society*
+
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Revise and resubmit at the Journal of Survey Statistics and Methodology*
 
+[Difference-in-Slopes: Causal Effects on Descriptive Associations](https://gustavodiaz.org/files/research/diff_in_slopes.pdf) (with Alexander Coppock)  
+*Under review at the Journal of Experimental Political Science*
+
+
 # Selected Working Papers
 
-["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://gustavodiaz.org/files/research/list_placebo.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
-["In the Crevices of the State: Criminal Governance in Unexpected Contexts."](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
-*European Research Council Starting Grant awarded in July 2025*
+["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
 # Teaching  
 
@@ -190,15 +196,15 @@ University of Illinois
 <!-- 2020.\ University of Notre Dame, Graduate Student Exchange -->
 
 # Selected Talks
-2025.\ ["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://talks.gustavodiaz.org/mapor25) Midwest Association for Public Opinion Research
+2026.\ ["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://talks.gustavodiaz.org/uchicago) University of Chicago
 
 2025.\ ["Balancing Precision and Retention in Experimental Design."](https://talks.gustavodiaz.org/texmeth25) Texas Methods Meeting
 
-2024.\ ["Combining List Experiments and the Network Scale-Up Method."](https://talks.gustavodiaz.org/ispp24) Annual Meeting of the International Society of Political Psychology
+<!-- 2024.\ ["Combining List Experiments and the Network Scale-Up Method."](https://talks.gustavodiaz.org/ispp24) Annual Meeting of the International Society of Political Psychology -->
 
 2024.\ ["The Merits of Externally Invalid Survey Experiments."](https://talks.gustavodiaz.org/maple24) MapleMeth
 
-2024.\ ["How the Presence of Others Can Bias Survey Responses."](https://talks.gustavodiaz.org/privacy_mpsa24) Midwest Political Science Association Conference
+<!-- 2024.\ ["How the Presence of Others Can Bias Survey Responses."](https://talks.gustavodiaz.org/privacy_mpsa24) Midwest Political Science Association Conference -->
 
 <!-- # Conference Presentations -->
 
@@ -236,23 +242,20 @@ University of Illinois
 
 <!-- St. Louis Area Methods Meeting: 2019 -->
 
-# Additional Training and Skills 
+# Additional Training
 <!-- Bunching together to keep in a 2 page document -->
 
-<!-- 2023\. Grant writing workshop for junior faculty. McMaster University -->
+2023\. Grant writing workshop for junior faculty. McMaster University
 
 2019\. Empirical Implications of Theoretical Models Summer Institute. Emory University
 
 2014\. Summer School on Mixed Methods. Pontificia Universidad Católica de Chile
 
-<!-- **Languages:** Spanish (native), French (advanced reading and writing, conversational speaking), Portuguese (advanced reading and writing) \ -->
-<!-- **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto -->
-
-**Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto
+<!-- **Languages:** Spanish, French, Portuguese `#h(1fr)`{=typst} **Software:** R, STATA, GIS, GitHub, LaTeX, Markdown, Typst, Quarto -->
 
 <!-- {{< pagebreak >}} -->
 
-# References
+<!-- # References -->
 
 <!-- ```{=typst} -->
 <!-- #set align(center) -->
@@ -269,19 +272,19 @@ University of Illinois
 <!-- ) -->
 <!-- ``` -->
 
-```{=typst}
-#set align(center)
+<!-- ```{=typst} -->
+<!-- #set align(center) -->
 
-#table(
-columns: (33%, 33%, 33%),
-stroke: none,
-align: left,
-[*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*],
-[Professor], [Professor], [Professor],
-[University of Illinois], [McMaster University], [University of Illinois],
-[#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")],
-[#link("mwinters@illinois.edu")]
-)
-```
+<!-- #table( -->
+<!-- columns: (33%, 33%, 33%), -->
+<!-- stroke: none, -->
+<!-- align: left, -->
+<!-- [*Jake W. Bowers*], [*Michelle L. Dion*], [*Matthew S. Winters*], -->
+<!-- [Professor], [Professor], [Professor], -->
+<!-- [University of Illinois], [McMaster University], [University of Illinois], -->
+<!-- [#link("jwbowers@illinois.edu")], [#link("dionm@mcmaster.ca")], -->
+<!-- [#link("mwinters@illinois.edu")] -->
+<!-- ) -->
+<!-- ``` -->
 
 
