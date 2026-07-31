@@ -30,7 +30,7 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research on political methodology and Comparative Politics. My work is published or forthcoming in leading outlets, including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research in political methodology and Comparative Politics. My work is published in leading outlets including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
@@ -46,9 +46,11 @@ As another example, in a solo-authored publication in the *Journal of Experiment
 
 
 <!-- Applied work, change "substantive" to "interdisciplinary" for stats jobs -->
-I also conduct substantive research in `r subfield`. For example, in an article published in the *British Journal of Political Science*, I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
+I also conduct substantive research in `r subfield`. For example, I am part of an *European Research Council Starting Grant* (~1.5 million USD) on criminal governance in unexpected contexts. Many studies of criminal governance in Latin America focus on countries with powerful criminal organizations and high levels of state coercive capacity, we focus instead on countries where criminal groups are less poerful yet entrenched, despite state presence being extended beyond security policies. Our multi-year grant conducts comparative public opinion surveys in Argentina, Chile, Costa Rica, and Uruguay. Our first product from this grant just received a **revise and resubmit** decision in *Latin American Politics and Society*. An important aspect of our grant is also to advance innovation in survey research methods. I outline these developments in my research statement.
 
-As another example, I am part of [ERC grant]
+
+As another example, in an article published in the *British Journal of Political Science*, I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
+
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
