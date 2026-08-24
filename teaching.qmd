@@ -26,7 +26,7 @@ Gustavo Diaz
 <!-- ### Teaching philosophy -->
 
 ```{r setup, include=F}
-field = "applied statistics"
+field = "quantitative methods"
 students = "the social sciences"
 methods_offer = "on statistical inference, causal inference, computational social science, machine learning, and data science for decision-making"
 source = "website"
@@ -45,12 +45,15 @@ The second principle is accountability, which is necessary to keep everyone on t
 
 Similarly, the overarching theme in my graduate probability and statistics course is how assumptions shape the inferences that we can credibly draw from data. I emphasize how we need to make unrealistic assumptions, even if minimal, to enable statistical inference, and that we need to hold ourselves accountable to those assumptions when evaluating the appropriateness of a statistical procedure.
 
-Flexibility and accountability also help in preventing instances of discrimination in the learning process. Through flexibility, students are invited to add value to the course by bringing their own perspective, knowledge, or experiences. In turn, accountability sets the scope for the type of contributions of interventions that are admissible. From this perspective, a racist remark is unacceptable not because someone disagrees with it, but because it is beyond the scope of the vocabulary we aim to build.
+<!-- If CP teaching matters  -->
+These principles are also transportable to substantive courses. My version of Introduction to Comparative Politics asks students to write a news memo in which they apply the concepts and theories from the course into any event students are interested in. Topic and format are flexible, while students remain accountable to the language introduced in class.
+
+Flexibility and accountability also help in preventing instances of discrimination in the learning process. Through flexibility, students are invited to add value to the course by bringing their own perspective, knowledge, or experiences. In turn, accountability sets the scope for the type of contributions of interventions that are admissible. From this perspective, a discriminatory remark is unacceptable not because someone disagrees with it, but because it is beyond the scope of the vocabulary we aim to build.
 
 
 ### Teaching experience
 
-At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, government, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge developments in computational social science. Next quarter, I am adding a graduate seminar on Machine Learning to my portfolio. Beyond the classroom, I collaborate with two rising sophomores on projects on experimental design as part of the Farrell Fellowship program and direct senior theses in political science and the program for Mathematical Methods in the Social Sciences.
+At Northwestern, I am the central person teaching statistics courses in the department. I teach the first course in the PhD methods sequence, focusing on Probability and Statistical Inference, a PhD elective on machine learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how experimentation and machine learning are used in academia, policy, and industry to inform decision-making. I also lead the Math Camp for incoming political science and sociology students and run a year-long Statistical Computing workshop that introduces cutting-edge developments in computational social science. Next Spring, I am adding a hands-on undergraduate course on survey research methods to my portfolio. Beyond the classroom, I have collaborated with two rising sophomores on projects on experimental design as part of the Farrell Fellowship program and routinely direct senior theses in political science and the program for Mathematical Methods in the Social Sciences.
 
 Before joining Northwestern, I taught data analysis for public policy and public opinion at McMaster, with emphasis on using quantitative evidence to make credible policy recommendations. The goal of this course is to give students hands-on experience in designing quantitative research projects in an area relevant to academia, policy, or industry. I also taught a course on the challenges in developing democracies, with attention to the use of experimentation to design interventions that become policy solutions.
 
@@ -64,4 +67,7 @@ Teaching to these diverse audiences made me aware of the importance of promoting
 
 ### Teaching interests
 
-I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`.
+<!-- I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`. -->
+
+<!-- TAILORED FOR IOWA -->
+I am prepared to teach required methods courses across levels, as well as electives on survey research, program evaluation, experiments, and evidence-informed decision-making. I am also eager to teach introductory courses in Comparative Politics, as well as electives on accountability, governance, representation, and comparative political behavior.
