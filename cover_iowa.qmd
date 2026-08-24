@@ -1,0 +1,71 @@
+---
+name: |
+  Gustavo Diaz \
+  Northwestern University
+sender: "Gustavo Diaz, Northwestern Political Science, 2001 Sheridan Rd, Suite 3110, Evanston IL 60208"
+subject: "Assistant Professor Search, Public Opinion and Policy"
+format:
+  letter-typst: default
+---
+
+```{r setup, include=F}
+jobtitle = "call for an Assistant Professor in the intersection of public opinion and policy"
+place = "the University of Iowa"
+tools = "statitics and data science"
+discipline = "political science"
+subfield = "Comparative Politics, focusing on the challenges to accountability, governance, and representation in the Global South"
+source = "website"
+```
+
+
+```{=typst}
+#set text(
+  size: 11pt
+)
+```
+
+
+
+Dear Members of the Search Committee, 
+
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on research methods and conduct research in Comparative Politics and political methodology. My work is published in leading outlets including the *British Journal of Political Science*, *Political Analysis*, *World Development*, and the *Journal of Experimental Political Science*.
+
+<!-- RESEARCH GENERAL  -->
+My research focuses on the challenges to accountability, representation, and governance in the Global South. These are policy areas where scholars, governments, and civil society organizations devote considerable resources to implement interventions aimed at covering the gaps where governments fall short. The challenge is that the effectiveness of these interventions is often stifled by unintended consequences emerging from strategic anticipation among key actors. Identifying these unintended consequences requires careful design of policy evaluations, as well as creativity in public opinion research to understand their underlying microfoundations.
+
+<!-- RESEARCH CP -->
+For example, one strand of my research in this area delves into the unintended *gendered* consequences arising from increased attention to politicians' performance in elected office. One would expect more scrutiny to enhance accountability, but the public interprets equivalent performance differently depending on a politician's gender. In an article published at the *British Journal of Political Science*, I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters’ perception of men politicians as the default category, and the tendency to
+believe that women politicians’ good performance stems from factors beyond the incumbent’s control.
+
+In another project, I am part of an *European Research Council Starting Grant* (~1.5 million USD) on understanding criminal governance in unexpected contexts. Studies of criminal governance, especially in Latin America, focus on countries with powerful criminal organizations and high levels of state coercive capacity. We focus instead on countries where criminal groups are less powerful yet entrenched, despite state presence being extended beyond security policies. Our multi-year grant conducts comparative-public opinion surveys in Argentina, Chile, Costa Rica, and Uruguay. Our first product of this grant just received a **revise and resubmit** from *Latin American Politics and Society*. An important aspect of our grant is to advance innovation in survey research methods. I outline this in more detail in my research statement.
+
+<!-- RESEARCH METHODS -->
+My substantive agenda has also led me to advance innovation in methods for policy evaluation and public opinion. Focusing on surveys and experiments, this agenda seeks to shape applied research by focusing on cases where one can seemingly improve statistical precision without sacrificing unbiasedness. As I show in my work, this usually implies unforeseen costs in other dimensions.
+
+For example, in "Balancing Precision and Retention in Experimental Design", published in *Political Analysis*, I discuss how implementing alternatives to the standard experimental design, such as block randomization or repeated measures, may attenuate expected precision gains via explicit or implicit sample loss, a concern that prevents researchers from applying these techniques widely. Through three replications and six reanalyses of previously published experiments in leading political science journals, I show how precision gains from alternative designs can withstand significant degrees of sample loss.
+
+<!-- Throwaway sentence in the end to mention California, delete if not relevant -->
+As another example, in a solo-authored publication in the *Journal of Experimental Political Science*, I discuss the unforeseen costs of implementing double list experiments. This is a variant of the list experiment that promises narrower confidence intervals but comes with under-explored questionnaire design complications in the form of carryover design effects, a special kind of question order effect. I introduce statistical tests to diagnose this effect, which in turn facilitate the implementation of a more efficient technique.
+
+<!-- TEACHING -->
+<!-- Remember to tweak based on whether the job is cp friendly -->
+My current role prioritizes research methods teaching.  At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence on Probability and Statistics, a PhD elective on Machine Learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how evidence-informed policy shapes decision making in academia, government, and industry. This upcoming spring, I will teach survey research methods at the undergraduate level. Before Joining Northwestern, I taught Data Analysis for Public Opinion and Policy at McMaster and introductory and advanced Comparative Politics courses at Tulane.
+
+<!-- Putting service more at the forefront -->
+Beyond the classroom, I serve as an undergraduate advisor and senior thesis supervisor, lead the Math Camp program for incoming political science and sociology PhD students, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science.
+
+<!-- Teaching plans -->
+<!-- Remember to switch from teaching portfolio/website accordingly -->
+<!-- Also tweak depending on job -->
+I am prepared to teach required methods courses across levels, as well as electives on survey research, program evaluation, experiments, and evidence-informed decision-making. I am also eager to teach introductory courses in Comparative Politics, as well as electives on accountability, governance, representation, and comparative political behavior.
+
+<!-- You can find copies of current and future syllabi in my `r source`. -->
+
+<!-- CLOSING -->
+I believe my expertise makes me an excellent fit at `r place`. If you have any questions, you can contact me via email or phone.
+
+
+Sincerely,
+
+
+
