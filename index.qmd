@@ -17,13 +17,13 @@ library(fontawesome)
 gs4_deauth()
 
 ## Set date threshold to display jobs
-t = "2025-12-15"
+t = "2026-10-31"
 ```
 
 ## Upcoming Deadlines
 
 ```{r, message = FALSE}
-jobs = read_sheet("https://docs.google.com/spreadsheets/d/1gEXP5EvvPtKmxY0srki6cNaa3JxMslzdHmfzrLB-PGM/edit?gid=0#gid=0",
+jobs = read_sheet("https://docs.google.com/spreadsheets/d/1gEXP5EvvPtKmxY0srki6cNaa3JxMslzdHmfzrLB-PGM/edit?gid=1792307319#gid=1792307319",
                   sheet = 1)
 
 # some manipulation to show only what is useful
@@ -44,7 +44,7 @@ filter(as_date(deadline) <= as_date(t)) %>%
 
 ```{r}
 jobs %>% 
-  summarize(across(Gisela:Michelle, ~ sum(.x, na.rm = TRUE))) %>% 
+  summarize(across(Jake:Michelle, ~ sum(.x, na.rm = TRUE))) %>% 
   select_if(~sum(.) > 0) %>% 
   kbl() %>% 
   kable_paper(full_width = FALSE, position = "left")
@@ -52,31 +52,75 @@ jobs %>%
 
 &nbsp;
 
-```{r, results = "asis"}
-refs = jobs %>% select(Gisela:Michelle)
+<div id="writer-filter">
+<strong>Filter by letter writer:</strong>&nbsp;
+<button class="filter-btn active" data-writer="all">All</button>
+<button class="filter-btn" data-writer="jake">Jake</button>
+<button class="filter-btn" data-writer="matt">Matt</button>
+<button class="filter-btn" data-writer="michelle">Michelle</button>
+<span id="filter-count"></span>
+</div>
 
-# try a loop now
+&nbsp;
+
+```{r, results = "asis"}
+refs = jobs %>% select(Jake:Michelle)
+
 for(i in 1:nrow(jobs)){
-  cat("[**",
-      jobs$position[i], " - ",
-      jobs$department[i], " - ",
-      jobs$place[i],
-      paste0('**](', jobs$url[i],')'),
-      "<br/>",
-      sep = "")
-  
-  cat("**Letters:**",
-      paste(colnames(refs)[which(refs[i,] == 1)], collapse = ", "),
-      "<br/>",
-      "**Deadline:**", jobs$deadline[i],
-      "<br/>",
-      "**Delivery:**", jobs$letters[i],
-      "<br/>",
-      "**Notes:**", jobs$notes[i],
-      "<br/>")
-  
-  cat(rep("&nbsp;  ", 2), sep="\n")
+  writers_for_job = paste(tolower(colnames(refs)[which(refs[i,] == 1)]), collapse = " ")
+  title_html = paste0('<a href="', jobs$url[i], '"><strong>',
+                      jobs$position[i], ' - ', jobs$department[i], ' - ', jobs$place[i],
+                      '</strong></a>')
+  letters_str = paste(colnames(refs)[which(refs[i,] == 1)], collapse = ", ")
+  cat(paste0(
+    '<div class="job-entry" data-writers="', writers_for_job, '">\n',
+    title_html, '<br/>\n',
+    '<strong>Letters:</strong> ', letters_str, '<br/>\n',
+    '<strong>Deadline:</strong> ', jobs$deadline[i], '<br/>\n',
+    '<strong>Delivery:</strong> ', jobs$letters[i], '<br/>\n',
+    '<strong>Notes:</strong> ', jobs$notes[i],
+    '\n</div>\n\n'
+  ))
 }
 ```
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const buttons = document.querySelectorAll('.filter-btn');
+  const entries = document.querySelectorAll('.job-entry');
+  const countEl = document.getElementById('filter-count');
 
+  function applyFilter(writer) {
+    let visible = 0;
+    entries.forEach(entry => {
+      const writers = entry.dataset.writers || '';
+      const show = writer === 'all' || writers.split(' ').includes(writer);
+      entry.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+    buttons.forEach(btn => btn.classList.toggle('active', btn.dataset.writer === writer));
+    countEl.textContent = writer !== 'all'
+      ? `Showing ${visible} job${visible !== 1 ? 's' : ''} for ${writer.charAt(0).toUpperCase() + writer.slice(1)}`
+      : '';
+    const url = new URL(window.location);
+    writer === 'all' ? url.searchParams.delete('writer') : url.searchParams.set('writer', writer);
+    history.replaceState({}, '', url);
+  }
+
+  buttons.forEach(btn => btn.addEventListener('click', () => applyFilter(btn.dataset.writer)));
+
+  const param = new URLSearchParams(window.location.search).get('writer');
+  if (param) applyFilter(param.toLowerCase());
+});
+</script>
+
+
+## Materials
+
+- [Short CV](diaz_cv.pdf) (For job applications)
+- [Long CV](cv.pdf)
+- [Methods cover letter](cover.pdf)
+- [Methods research statement](research.pdf)
+- [CP cover letter](cover_cp.pdf)
+- [CP research statement](research_cp.pdf)
+- [Teaching statement](teaching.pdf)
