@@ -3,7 +3,7 @@ title: "Gustavo Diaz CV"
 author:
   firstname: Gustavo
   lastname: Diaz
-  address: "Scott Hall 103, 601 University Place, Evanston, Illinois"
+  address: "2001 Sheridan Rd, Suite 3110, Evanston, IL 60208"
   position: "Department of Political Science ・ Northwestern University"
   contacts:
     - icon: fa envelope
@@ -106,12 +106,14 @@ MA in Political Science",
 ["Criminal Governance in Unexpected Contexts: the Case of Montevideo, Uruguay"](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
 *Revise and resubmit*
 
-[Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion) *Revise and resubmit*
+[Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
+*Revise and resubmit*
 
 [Difference-in-Slopes: Causal Effects on Descriptive Associations](https://gustavodiaz.org/files/research/diff_in_slopes.pdf) (with Alexander Coppock)  
 *Under review*
 
-["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://gustavodiaz.org/files/research/list_placebo.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
+["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://gustavodiaz.org/files/research/list_placebo.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
+*Under review*
 
 ["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
@@ -119,15 +121,17 @@ MA in Political Science",
 
 **Northwestern University** 
 
-[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2026, 2025
+Survey Research Methods `#h(1fr)`{=typst} Spring 2027
 
-Machine Learning (Graduate) `#h(1fr)`{=typst} Winter 2026
+[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2027,2026, 2025
 
-[Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2025, 2024
+[Probability and Statistics (Graduate)](https://gustavodiaz.org/ps403/) `#h(1fr)`{=typst} Fall 2026, 2025, 2024
 
-[Math Camp (Graduate)](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2025
+[Math Camp (Graduate)](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2026
 
-[Statistical Computing Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 2025-26, 2024-25
+[Statistical Computing Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 26-27, 25-26, 24-25
+
+[Machine Learning (Graduate)](https://gustavodiaz.org/ps490ml/)`#h(1fr)`{=typst} Winter 2026
 
 [Evidence-Informed Decision-Making](https://gustavodiaz.org/ps395e/syllabus.pdf) `#h(1fr)`{=typst} Spring 2025
 
@@ -214,10 +218,10 @@ University of Illinois
 # Service
 
 <!-- Sorted alphabetically  -->
-**Reviewer:** American Political Science Review, British Journal of Political Science, Comparative Political Studies, FONDECYT Chile (Political Science), Journal of Elections, Public Opinion and Parties, Public Opinion Quarterly, PS: Political Science
+**Reviewer:** American Political Science Review, American Journal of Political Science, British Journal of Political Science, Comparative Political Studies, FONDECYT Chile (Political Science), Journal of Elections, Public Opinion and Parties, Public Opinion Quarterly, PS: Political Science
 
 <!-- Sorted chronologically forward -->
-**Discussant:** MPSA 2021, MPSA 2022, SPSA 2022, APSA 2024, MPSA 2024, MPSA 2025, MPSA 2026
+**Discussant:** MPSA 2021, MPSA 2022, SPSA 2022, APSA 2024, MPSA 2024, MPSA 2025, MPSA 2026, PolMeth 2026
 
 **Department**
 
@@ -227,6 +231,8 @@ University of Illinois
 **Discipline**
 
 - Chair, Political Methodology section, Midwest Political Science Association, MPSA (2024)
+
+{{< pagebreak >}}
 
 # Additional Training  
 

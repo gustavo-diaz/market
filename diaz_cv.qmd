@@ -3,7 +3,7 @@ title: "Gustavo Diaz CV"
 author:
   firstname: Gustavo
   lastname: Diaz
-  address: "Scott Hall 103, 601 University Place, Evanston, Illinois"
+  address: "2001 Sheridan Rd, Suite 3110 Evanston, IL 60208"
   position: "Department of Political Science ・ Northwestern University"
   contacts:
     - icon: fa envelope
@@ -126,6 +126,8 @@ MA in Political Science",
 )
 ```
 
+{{< pagebreak >}}
+
 # Under Review  
 
 ["Criminal Governance in Unexpected Contexts: the Case of Montevideo, Uruguay"](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
@@ -134,12 +136,12 @@ MA in Political Science",
 ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Revise and resubmit at the Journal of Survey Statistics and Methodology*
 
+["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://gustavodiaz.org/files/research/list_placebo.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
+*Under review at Political Analysis*
 
 # Selected Working Papers
 
 [Difference-in-Slopes: Causal Effects on Descriptive Associations](https://gustavodiaz.org/files/research/diff_in_slopes.pdf) (with Alexander Coppock)  
-
-["Recovering Informative Estimates in Failed Placebo-Controlled List Experiments."](https://gustavodiaz.org/files/research/list_placebo.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
 ["Combining List Experiments and the Network Scale-Up Method to Improve Prevalence Estimates of Sensitive Attitudes and Behaviors."](https://gustavodiaz.org/files/research/list_nsum.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)
 
@@ -149,19 +151,17 @@ MA in Political Science",
 
 Survey Research Methods `#h(1fr)`{=typst} Spring 2027
 
-[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2027, 2026, 2025
+[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2027,2026, 2025
 
-[Probability and Statistics (Graduate)](https://gustavodiaz.org/files/teaching/prob_stats.pdf) `#h(1fr)`{=typst} Fall 2026, 2025, 2024
+[Probability and Statistics (Graduate)](https://gustavodiaz.org/ps403/) `#h(1fr)`{=typst} Fall 2026, 2025, 2024
 
-[Machine Learning (Graduate)](https://gustavodiaz.org/files/teaching/machine_learning.pdf) `#h(1fr)`{=typst} Winter 2026
+[Math Camp (Graduate)](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2026
 
+[Statistical Computing Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 26-27, 25-26, 24-25
 
-[Math Camp (Graduate)](https://gustavodiaz.org/NUmathcamp) `#h(1fr)`{=typst} Summer 2025
-
-[Statistical Computing Workshop](https://gustavodiaz.org/rworkshop/) `#h(1fr)`{=typst} AY 2025-26, 2024-25
+[Machine Learning (Graduate)](https://gustavodiaz.org/ps490ml/)`#h(1fr)`{=typst} Winter 2026
 
 [Evidence-Informed Decision-Making](https://gustavodiaz.org/ps395e/syllabus.pdf) `#h(1fr)`{=typst} Spring 2025
-
 
 **McMaster University**  
 
@@ -243,6 +243,32 @@ University of Illinois
 <!-- Empirical Implications of Theoretical Models: 2019 -->
 
 <!-- St. Louis Area Methods Meeting: 2019 -->
+
+# Mentorship
+
+**Senior Theses**
+
+- Fiona Bolzan (Northwestern, Political Science)
+- Elena Mazariegos (Northwestern, International Studies)
+- Keeley Sikora (Northwestern, Political Science)
+- Inaya Hussain (Northwestern, Mathematical Methods in the Social Sciences)
+
+# Service
+
+<!-- Sorted alphabetically  -->
+**Reviewer:** American Political Science Review, American Journal of Political Science, British Journal of Political Science, Comparative Political Studies, FONDECYT Chile (Political Science), Journal of Elections, Public Opinion and Parties, Public Opinion Quarterly, PS: Political Science
+
+<!-- Sorted chronologically forward -->
+**Discussant:** MPSA 2021, MPSA 2022, SPSA 2022, APSA 2024, MPSA 2024, MPSA 2025, MPSA 2026, PolMeth 2026
+
+**Department**
+
+- Member, Comparative politics and data science search committee, University of Illinois Urbana-Champaign (2019)
+- Coordinator, Statistical Computing Workshop, Northwestern University (2024-)
+
+**Discipline**
+
+- Chair, Political Methodology section, Midwest Political Science Association, MPSA (2024)
 
 # Additional Training
 <!-- Bunching together to keep in a 2 page document -->
