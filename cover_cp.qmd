@@ -3,18 +3,18 @@ name: |
   Gustavo Diaz \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, 2001 Sheridan Rd, Suite 3110, Evanston IL 60208"
-subject: "Assistant Professor Search, Public Opinion and Policy"
+subject: "Open Rank Search, Political Science"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor in the intersection of public opinion and policy"
-place = "the University of Iowa"
+jobtitle = "call for open rank positions across subfields"
+place = "Rice"
 tools = "statitics and data science"
 discipline = "political science"
 subfield = "Comparative Politics, focusing on the challenges to accountability, governance, and representation in the Global South"
-source = "website"
+source = "teaching portfolio"
 ```
 
 
@@ -49,7 +49,7 @@ As another example, in a solo-authored publication in the *Journal of Experiment
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My current role prioritizes research methods teaching.  At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence on Probability and Statistics, a PhD elective on Machine Learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how evidence-informed policy shapes decision making in academia, government, and industry. This upcoming spring, I will teach survey research methods at the undergraduate level. Before Joining Northwestern, I taught Data Analysis for Public Opinion and Policy at McMaster and introductory and advanced Comparative Politics courses at Tulane.
+My current role prioritizes research methods teaching.  At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence on Probability and Statistics, a PhD elective on Machine Learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how data shapes decision making in academia, government, and industry. This upcoming Spring, I will teach survey research methods at the undergraduate level. Before Joining Northwestern, I taught Data Analysis for Public Opinion and Policy at McMaster and introductory and advanced Comparative Politics courses at Tulane.
 
 <!-- Putting service more at the forefront -->
 Beyond the classroom, I serve as an undergraduate advisor and senior thesis supervisor, lead the Math Camp program for incoming political science and sociology PhD students, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science.
@@ -57,12 +57,10 @@ Beyond the classroom, I serve as an undergraduate advisor and senior thesis supe
 <!-- Teaching plans -->
 <!-- Remember to switch from teaching portfolio/website accordingly -->
 <!-- Also tweak depending on job -->
-I am prepared to teach required methods courses across levels, as well as electives on survey research, program evaluation, experiments, and evidence-informed decision-making. I am also eager to teach introductory courses in Comparative Politics, as well as electives on accountability, governance, representation, and comparative political behavior.
-
-<!-- You can find copies of current and future syllabi in my `r source`. -->
+I am prepared to teach required methods courses across levels, as well as electives on experiments, survey research, machine learning, comparative politics, and evidence-informed decision-making. You can find copies of current and future syllabi in my `r source`.
 
 <!-- CLOSING -->
-I believe my expertise makes me an excellent fit at `r place`. If you have any questions, you can contact me via email or phone.
+I believe my expertise makes me an excellent fit at `r place`. Moreover, this position would bring me closer to my personal support network. If you have any questions, you can contact me via email or phone.
 
 
 Sincerely,

@@ -29,11 +29,11 @@ Gustavo Diaz
 field = "quantitative methods"
 students = "the social sciences"
 methods_offer = "on statistical inference, causal inference, computational social science, machine learning, and data science for decision-making"
-source = "website"
+source = "teaching portfolio"
 ```
 
 <!-- Hide for shorter version -->
-As an instructor of `r field` in `r students`, I face a polarized audience. Increasingly, students start their program with considerable experience in mathematical thinking, statistics, and statistical programming. Still, many start with an appreciation for data analysis, but come from educational and career paths designed to explicitly avoid math.
+As an instructor of `r field` in `r students`, I face a polarized audience. Increasingly, students start their program with considerable experience in mathematical thinking, statistics, and statistical computing. Still, many start with an appreciation for data analysis, but come from educational and career paths designed to explicitly avoid math.
 
 My approach to keep both audiences engaged within one term is to unify math, statistics, and coding as the task of acquiring a new language. A single course will not teach students everything they need to know to become fluent, but it can give enough tools to facilitate future learning in a direction that is beneficial to students regardless of their background and career goals. For some, this may mean engaging directly with data and code or even creating new methodologies. For others, the goal may be just to communicate productively with scholarship drawing on quantitative findings or data analysts at the workplace.
 
@@ -70,4 +70,4 @@ Teaching to these diverse audiences made me aware of the importance of promoting
 <!-- I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`. -->
 
 <!-- TAILORED FOR IOWA -->
-I am prepared to teach required methods courses across levels, as well as electives on survey research, program evaluation, experiments, and evidence-informed decision-making. I am also eager to teach introductory courses in Comparative Politics, as well as electives on accountability, governance, representation, and comparative political behavior.
+I am prepared to teach required methods courses across levels, as well as electives on experiments, survey research, machine learning, comparative politics, and evidence-informed decision-making. You can find copies of current and future syllabi in my `r source`.
