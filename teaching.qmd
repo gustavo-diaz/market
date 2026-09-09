@@ -23,13 +23,13 @@ Gustavo Diaz
 ```
 
 
-<!-- ### Teaching philosophy -->
+### Teaching philosophy
 
 ```{r setup, include=F}
 field = "quantitative methods"
 students = "the social sciences"
-methods_offer = "on statistical inference, causal inference, computational social science, machine learning, and data science for decision-making"
-source = "teaching portfolio"
+methods_offer = "statistical inference, causal inference, survey research, computational social science, machine learning, and evidence-informed decision-making"
+source = "website"
 ```
 
 <!-- Hide for shorter version -->
@@ -46,7 +46,7 @@ The second principle is accountability, which is necessary to keep everyone on t
 Similarly, the overarching theme in my graduate probability and statistics course is how assumptions shape the inferences that we can credibly draw from data. I emphasize how we need to make unrealistic assumptions, even if minimal, to enable statistical inference, and that we need to hold ourselves accountable to those assumptions when evaluating the appropriateness of a statistical procedure.
 
 <!-- If CP teaching matters  -->
-These principles are also transportable to substantive courses. My version of Introduction to Comparative Politics asks students to write a news memo in which they apply the concepts and theories from the course into any event students are interested in. Topic and format are flexible, while students remain accountable to the language introduced in class.
+<!-- These principles are also transportable to substantive courses. My version of Introduction to Comparative Politics asks students to write a news memo in which they apply the concepts and theories from the course into any event students are interested in. Topic and format are flexible, while students remain accountable to the language introduced in class. -->
 
 Flexibility and accountability also help in preventing instances of discrimination in the learning process. Through flexibility, students are invited to add value to the course by bringing their own perspective, knowledge, or experiences. In turn, accountability sets the scope for the type of contributions of interventions that are admissible. From this perspective, a discriminatory remark is unacceptable not because someone disagrees with it, but because it is beyond the scope of the vocabulary we aim to build.
 
@@ -67,7 +67,7 @@ Teaching to these diverse audiences made me aware of the importance of promoting
 
 ### Teaching interests
 
-<!-- I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`. -->
+I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`.
 
 <!-- TAILORED FOR IOWA -->
-I am prepared to teach required methods courses across levels, as well as electives on experiments, survey research, machine learning, comparative politics, and evidence-informed decision-making. You can find copies of current and future syllabi in my `r source`.
+<!-- I am prepared to teach required methods courses across levels, as well as electives on experiments, survey research, machine learning, comparative politics, and evidence-informed decision-making. You can find copies of current and future syllabi in my `r source`. -->

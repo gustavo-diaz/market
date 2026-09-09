@@ -11,11 +11,11 @@ format:
 
 ```{r setup, include=F}
 jobtitle = "call for an Assistant Professor in Political Methodology"
-place = "Columbia"
-tools = "desig-based inference and computational social science"
+place = "Rochester"
+tools = "design-based inference and computational social science"
 discipline = "political science"
 subfield = "Comparative Politics, focusing on the challenges to accountability, governance, and representation in the Global South"
-courses = "on research design, statistics, machine learning, causal inference, experimentation, and evidence-informed decision-making"
+courses = "on statistical inference, causal inference, survey research, computational social science, machine learning, and evidence-informed decision-making"
 source = "website"
 ```
 
@@ -54,12 +54,12 @@ As another example, in an article published in the *British Journal of Political
 
 <!-- TEACHING -->
 <!-- Remember to tweak based on whether the job is cp friendly -->
-My teaching focuses on making quantitative methods accessible to diverse audiences. I accomplish this through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence on Probability and Statistics, a PhD elective on Machine Learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how machine learning and experimentation are used in government, industry, and civil society to inform decision-making. In the Spring, I will add a hands-on undergraduate course on survey research methods to my portfolio. Before Joining Northwestern, I taught Data Analysis for Public Opinion and Policy at McMaster.
+My teaching focuses on making quantitative methods accessible to diverse audiences. I accomplish this through a combination of flexibility and accountability. At Northwestern, I am the central person teaching methods courses in the department. I teach the first course in the PhD sequence on Probability and Statistics, a PhD elective on Machine Learning, the required undergrad-level Introduction to Empirical Methods, and an undergraduate research seminar on how machine learning and experimentation are used in government, industry, and civil society to inform decision-making. In the Spring, I will add a hands-on undergraduate course on survey research methods to my portfolio.
 
 <!-- Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, and Politics of Developing Democracies from an evidence-informed policy perspective. Both courses emphasized using experiments to generate credible evidence. Beyond the classroom, I collaborate with one undergraduate student on projects on experimental design as part of the Farrell fellowship mentoring program, and advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- Putting service more at the forefront -->
-Beyond the classroom, I serve as an undergraduate advisor and routinely supervise senior theses, lead the Math Camp program for incoming political science and sociology PhD students, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science.
+Beyond the classroom, I serve as an undergraduate advisor and routinely supervise senior theses, lead the Math Camp program for incoming PhD students across social science departments, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science.
 
 <!-- For jobs that require undergrad mentoring -->
 
