@@ -26,10 +26,6 @@ quarto::quarto_render("research_cp.qmd",
 quarto::quarto_render("personal.qmd",
                       output_file = "diaz_personal_statement.pdf")
 
-# puc proposal
-quarto::quarto_render("proposal.qmd",
-                      output_file = "diaz_propuesta.pdf")
-
 
 # teaching cover letter
 quarto::quarto_render("cover_teaching.qmd", 

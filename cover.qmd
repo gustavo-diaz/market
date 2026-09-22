@@ -11,7 +11,7 @@ format:
 
 ```{r setup, include=F}
 jobtitle = "call for an Assistant Professor in Political Methodology"
-place = "Rochester"
+place = "Columbia"
 tools = "design-based inference and computational social science"
 discipline = "political science"
 subfield = "Comparative Politics, focusing on the challenges to accountability, governance, and representation in the Global South"
