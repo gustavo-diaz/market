@@ -151,7 +151,7 @@ MA in Political Science",
 
 Survey Research Methods `#h(1fr)`{=typst} Spring 2027
 
-[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2027,2026, 2025
+[Introduction to Empirical Methods in Political Science](https://gustavodiaz.org/ps210/syllabus.pdf)  `#h(1fr)`{=typst} Spring & Winter 2027, 2026, 2025
 
 [Probability and Statistics (Graduate)](https://gustavodiaz.org/ps403/) `#h(1fr)`{=typst} Fall 2026, 2025, 2024
 

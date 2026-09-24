@@ -26,9 +26,9 @@ Gustavo Diaz
 ### Teaching philosophy
 
 ```{r setup, include=F}
-field = "quantitative methods"
+field = "statistical methods"
 students = "the social sciences"
-methods_offer = "statistical inference, causal inference, survey research, computational social science, machine learning, and evidence-informed decision-making"
+methods_offer = "on statistical inference, causal inference, survey research, computational social science, machine learning, evidence-informed decision-making, and Comparative Politics"
 source = "website"
 ```
 
@@ -67,7 +67,7 @@ Teaching to these diverse audiences made me aware of the importance of promoting
 
 ### Teaching interests
 
-I am prepared to teach courses on `r methods_offer`. You can find copies of current and future syllabi in my `r source`.
+I am prepared to teach courses `r methods_offer`. You can find copies of current and future syllabi in my `r source`.
 
 <!-- TAILORED FOR IOWA -->
 <!-- I am prepared to teach required methods courses across levels, as well as electives on experiments, survey research, machine learning, comparative politics, and evidence-informed decision-making. You can find copies of current and future syllabi in my `r source`. -->

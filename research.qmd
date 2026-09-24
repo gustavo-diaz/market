@@ -25,7 +25,7 @@ Gustavo Diaz
 
 ```{r setup, include=F}
 discipline = "Social scientists"
-fields = "design-based causal inference and computational social science"
+fields = "design-based inference and computational social science"
 applications = "to questions on the challenges to accountability, governance, and representation"
 region = "Global South"
 ```

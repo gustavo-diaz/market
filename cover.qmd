@@ -4,18 +4,18 @@ name: |
   Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, 2001 Sheridan Rd, Suite 3110, Evanston IL 60208"
-subject: "Assistant Professor Search, Political Methodology"
+subject: "Assistant Professor Search, Political Science"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "call for an Assistant Professor in Political Methodology"
-place = "Columbia"
+jobtitle = "Assistant Professor search in Political Science"
+place = "CUNEF Universidad"
 tools = "design-based inference and computational social science"
-discipline = "political science"
-subfield = "Comparative Politics, focusing on the challenges to accountability, governance, and representation in the Global South"
-courses = "on statistical inference, causal inference, survey research, computational social science, machine learning, and evidence-informed decision-making"
+discipline = "social science"
+subfield = "Comparative Politics"
+courses = "on statistical inference, causal inference, survey research, computational social science, machine learning, evidence-informed decision-making, and Comparative Politics"
 source = "website"
 ```
 
@@ -46,7 +46,7 @@ As another example, in a solo-authored publication in the *Journal of Experiment
 
 
 <!-- Applied work, change "substantive" to "interdisciplinary" for stats jobs -->
-My work also produces insights for substantive research in `r subfield`. For example, I am part of an *European Research Council Starting Grant* (~1.5 million USD) on understanding criminal governance in unexpected contexts. Many studies of criminal governance in Latin America focus on countries with powerful criminal organizations and high levels of state coercive capacity, we focus instead on countries where criminal groups are less powerful yet entrenched, despite state presence being extended beyond security policies. Our multi-year grant conducts comparative public opinion surveys in Argentina, Chile, Costa Rica, and Uruguay. Our first product from this grant just received a **revise and resubmit** decision in *Latin American Politics and Society*. An important aspect of our grant is also to advance innovation in survey research methods. I outline these developments in my research statement.
+My work also produces insights for substantive research in `r subfield`. For example, I am part of an *European Research Council Starting Grant* (~1.5 million USD) on understanding criminal governance in unexpected contexts. Many studies of criminal governance in Latin America focus on countries with powerful criminal organizations and high levels of state coercive capacity, we focus instead on countries where criminal groups are less powerful yet entrenched, despite state presence being extended beyond security policies. Our multi-year grant conducts comparative public opinion surveys in Argentina, Chile, Costa Rica, and Uruguay. Our first product from this grant just received a **revise and resubmit** decision in *Latin American Politics and Society*. An important component of our grant is to advance innovation in survey research methods. I outline these developments in my research statement.
 
 
 As another example, in an article published in the *British Journal of Political Science*, I use an information experiment in Argentina to study gendered differential reactions to policy implementation. Previous work suggests that women face higher scrutiny for their performance in office. However, in the context of the implementation of a food distribution program, I find that voters are only responsive to performance information among men officeholders and tend to ignore performance information when told that an officeholder is a woman. This stems from voters' perception of men politicians as the default category, and the tendency to believe that women politicians' good performance stems from factors beyond the incumbent's control. This finding calls attention to an unforeseen informational imbalance on survey experimental work in the subject, which future studies should take into account.
@@ -59,7 +59,7 @@ My teaching focuses on making quantitative methods accessible to diverse audienc
 <!-- Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, and Politics of Developing Democracies from an evidence-informed policy perspective. Both courses emphasized using experiments to generate credible evidence. Beyond the classroom, I collaborate with one undergraduate student on projects on experimental design as part of the Farrell fellowship mentoring program, and advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- Putting service more at the forefront -->
-Beyond the classroom, I serve as an undergraduate advisor and routinely supervise senior theses, lead the Math Camp program for incoming PhD students across social science departments, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science.
+Beyond the classroom, I lead the Math Camp program for incoming PhD students across social science departments, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science. I also serve as an undergraduate advisor and routinely supervise senior theses on a broad range of empirical disciplines.
 
 <!-- For jobs that require undergrad mentoring -->
 
@@ -70,9 +70,7 @@ Beyond the classroom, I serve as an undergraduate advisor and routinely supervis
 <!-- Teaching plans -->
 <!-- Remember to switch from teaching portfolio/website accordingly -->
 <!-- Also tweak depending on job -->
-I am prepared to teach courses `r courses`. 
-
-<!-- You can find copies of current and future syllabi in my `r source`. -->
+I am prepared to teach courses `r courses`. You can find copies of current and future syllabi in my `r source`.
 
 
 
