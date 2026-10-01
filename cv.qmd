@@ -79,6 +79,8 @@ MA in Political Science",
 )
 ```
 
+1. Diaz, Gustavo, Jordi Díez, and Michelle L. Dion. Forthcoming. ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) *Journal of Survey Statistics and Methodology*
+
 1. **Diaz, Gustavo** and Erin Rossiter. 2026. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis* 34 (1): 139-148
 
 1. **Diaz, Gustavo**, Virginia Oliveros, Rebecca Weitz-Shapiro, and Matthew S. Winters. 2025. ["Ignoring Female Performance: A Survey Experiment on Policy Implementation in Argentina."](https://doi.org/10.1017/S0007123424000668) *British Journal of Political Science* 55: e54  
@@ -104,9 +106,6 @@ MA in Political Science",
 # Working Papers
 
 ["Criminal Governance in Unexpected Contexts: the Case of Montevideo, Uruguay"](https://gustavodiaz.org/files/research/crevices.pdf) (with Ines Fynn, Verónica Pérez Bentancur, and Lucía Tiscornia)  
-*Revise and resubmit*
-
-[Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina""](https://gustavodiaz.org/files/research/ssm_arg.pdf) (with Jordi Díez and Michelle Dion)  
 *Revise and resubmit*
 
 [Difference-in-Slopes: Causal Effects on Descriptive Associations](https://gustavodiaz.org/files/research/diff_in_slopes.pdf) (with Alexander Coppock)  
