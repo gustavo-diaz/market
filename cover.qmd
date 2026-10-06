@@ -4,14 +4,14 @@ name: |
   Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, 2001 Sheridan Rd, Suite 3110, Evanston IL 60208"
-subject: "Assistant Professor Search, Political Science"
+subject: "Assistant Professor Search, Data Analytics"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
 jobtitle = "Assistant Professor search in Political Science"
-place = "CUNEF Universidad"
+place = "Ohio Wesleyan University"
 tools = "design-based inference and computational social science"
 discipline = "social science"
 subfield = "Comparative Politics"

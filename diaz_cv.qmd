@@ -104,7 +104,7 @@ MA in Political Science",
 )
 ```
 
-1. Diaz, Gustavo, Jordi Díez, and Michelle L. Dion. Forthcoming. ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) *Journal of Survey Statistics and Methodology*
+1. **Diaz, Gustavo**, Jordi Díez, and Michelle L. Dion. Forthcoming. ["Two-Sided Sensitivity Bias in List Experiments: Support for Same-Sex Marriage in Argentina"](https://gustavodiaz.org/files/research/ssm_arg.pdf) *Journal of Survey Statistics and Methodology*
 
 1. **Diaz, Gustavo** and Erin Rossiter. 2026. ["Balancing Precision and Retention in Experimental Design."](https://doi.org/10.1017/pan.2025.10008) *Political Analysis* 34 (1): 139-148
 
