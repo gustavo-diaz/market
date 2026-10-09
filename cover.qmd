@@ -1,21 +1,20 @@
 ---
 name: |
   Gustavo Diaz \
-  Assistant Professor of Instruction \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, 2001 Sheridan Rd, Suite 3110, Evanston IL 60208"
-subject: "Assistant Professor Search, Data Analytics"
+subject: "Assistant Professor Search, Quantitative Research Methods"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "Assistant Professor search in Political Science"
-place = "Ohio Wesleyan University"
-tools = "design-based inference and computational social science"
+jobtitle = "Assistant Professor search in quantitative research methods"
+place = "Clemson University"
+tools = "causal inference and computational social science"
 discipline = "social science"
-subfield = "Comparative Politics"
-courses = "on statistical inference, causal inference, survey research, computational social science, machine learning, evidence-informed decision-making, and Comparative Politics"
+subfield = "Comparative Public Policy, especially on the challenges to accountability, governance, and representation in democracies"
+courses = "in the required method sequence across levels, as well as electives on causal inference, machine learning, survey research, evidence-informed policy-making, and the politics of developing democracies"
 source = "website"
 ```
 
@@ -30,7 +29,7 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research in political methodology. My work is published in leading outlets including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research in political methodology and Comparative Politics. My work is published in leading outlets including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
