@@ -26,7 +26,7 @@ Gustavo Diaz
 ```{r setup, include=F}
 discipline = "Social scientists"
 fields = "design-based inference and computational social science"
-applications = "to questions on the challenges to accountability, governance, and representation"
+applications = "to questions in comparative public policy on the challenges to accountability, governance, and representation in the Global South"
 region = "Global South"
 ```
 
@@ -35,7 +35,7 @@ region = "Global South"
 
 My research develops standards to navigate the tradeoffs that emerge as one considers research design alternatives before data collection. I use tools from `r fields` to identify practices and procedures that researchers can adopt to improve how they approach data collection at the pre-analysis stage. My current agenda focuses on improving statistical precision, since this is often the deciding factor when choosing among alternative research designs, all promising unbiased estimators.
 
-I apply the insights of my methodological work `r applications`. The common theme across these applications is the goal of improving our ability to make statistical inferences about hard-to-observe social and political phenomena, which in turn leads to a more credible evidence base to support decision-making. 
+I apply the insights of my methodological work `r applications`. The common theme across these applications is the goal of improving our ability to make statistical inferences about hard-to-observe social and political phenomena, which in turn leads to a more credible evidence base to support policy-making. 
 
 <!-- For the sake of brevity, this document focuses on my methodological agenda only. -->
 

@@ -3,19 +3,19 @@ name: |
   Gustavo Diaz \
   Northwestern University
 sender: "Gustavo Diaz, Northwestern Political Science, 2001 Sheridan Rd, Suite 3110, Evanston IL 60208"
-subject: "Assistant Professor Search, Quantitative Research Methods"
+subject: "Assistant Professor Search, Data Science"
 format:
   letter-typst: default
 ---
 
 ```{r setup, include=F}
-jobtitle = "Assistant Professor search in quantitative research methods"
-place = "Clemson University"
-tools = "causal inference and computational social science"
+jobtitle = "Assistant Professor search in data science"
+place = "Lewis & Clark"
+tools = "statistics and data science"
 discipline = "social science"
-subfield = "Comparative Public Policy, especially on the challenges to accountability, governance, and representation in democracies"
-courses = "in the required method sequence across levels, as well as electives on causal inference, machine learning, survey research, evidence-informed policy-making, and the politics of developing democracies"
-source = "website"
+subfield = "in political science"
+courses = "on statistical inference, causal inference, machine learning, computational social science, statistical computing, and data-driven decision-making"
+source = "teaching portfolio"
 ```
 
 
@@ -29,7 +29,7 @@ source = "website"
 
 Dear Members of the Search Committee, 
 
-I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research in political methodology and Comparative Politics. My work is published in leading outlets including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
+I write to express my interest in your `r jobtitle`. I am an Assistant Professor of Instruction in the Department of Political Science at Northwestern University, where I teach courses on statistics, statistical computing, and computational social science and conduct research in political methodology and applied statistics. My work is published in leading social science outlets including *Political Analysis*, the *British Journal of Political Science*, *World Development*, and the *Journal of Experimental Political Science*.
 
 <!-- RESEARCH -->
 <!-- Remember to update the status of stuff sent for review -->
@@ -58,13 +58,13 @@ My teaching focuses on making quantitative methods accessible to diverse audienc
 <!-- Before joining Northwestern, I taught Data Analysis for Public Policy and Public Opinion, and Politics of Developing Democracies from an evidence-informed policy perspective. Both courses emphasized using experiments to generate credible evidence. Beyond the classroom, I collaborate with one undergraduate student on projects on experimental design as part of the Farrell fellowship mentoring program, and advise senior theses in Political Science and the program in Mathematical Methods for the Social Sciences. -->
 
 <!-- Putting service more at the forefront -->
-Beyond the classroom, I lead the Math Camp program for incoming PhD students across social science departments, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science. I also serve as an undergraduate advisor and routinely supervise senior theses on a broad range of empirical disciplines.
+<!-- Beyond the classroom, I lead the Math Camp program for incoming PhD students across social science departments, and run the Statistical Computing Workshop that brings internal and external speakers to introduce cutting-edge developments in computational social science. I also serve as an undergraduate advisor and routinely supervise senior theses on a broad range of empirical disciplines. -->
 
 <!-- For jobs that require undergrad mentoring -->
 
 <!-- Take this out to fit pages -->
 <!-- These experiences have prepared me to teach to a diverse student body, to adapt to both online and in-person platforms, and to teach both the theory and application of quantitative methods. -->
-<!-- I believe my experience teaching statistics courses in a PhD program is comparable to that required to offer courses at all levels in an undergraduate program in statistics and data science. Beyond the classroom, I routinely work with and advise undergraduate students on topics related to applied statistics. Currently, I serve as a mentor for the Farrell Fellowship program at Northwestern, which paired me with a rising sophomore student to collaborate on various projects on experimental design. I also advise two senior theses. One in Political Science with emphasis on experimental data, and another in the program in Mathematical Methods for the Social Sciences. -->
+I believe my experience teaching statistics courses in a PhD program is commesurate to that required to offer courses at all levels in an undergraduate program in data science. Beyond the classroom, I routinely work with and advise undergraduates on topics related to applied statistics. Last year, I served as a mentor for the Farrell Fellowship program at Northwestern, which paired me two student mentees to collaborate on various projects on experimental design. I also routinely advice senior theses across the social sciences, including Northwestern's program on Mathematical Methods for the Social Sciences.
 
 <!-- Teaching plans -->
 <!-- Remember to switch from teaching portfolio/website accordingly -->
